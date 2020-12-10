@@ -2,6 +2,7 @@
 title: "About me"
 ---
 
-## Header
+## Postdoctoral Researcher 
+## Florida International University
 
-Say more about you here.
+I am an interdisciplinary scientist that is interested in how habitats affect where consumers are and what they eat.
