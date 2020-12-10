@@ -12,7 +12,7 @@ navbar:
       href: about.html
     - text: "CV"
       icon: fa-file-pdf-o
-      href: cv.html
+      href: cv.knit.html
     - text: "Publications"
       icon: fa-rss
       href: https://YOURGITHUB.github.io/blog/  # CHANGE HERE OR DELETE ALL 3 LINES 
