@@ -22,7 +22,7 @@ navbar:
       href: mailto:wjames@fiu.edu                    # CHANGE HERE 
     - text: "GitHub"
       icon: fa-github
-      href: https://github.com/YOURGITHUB       # CHANGE HERE 
+      href: https://github.com/wryanjames       # CHANGE HERE 
 output:
   html_document:
     theme: cosmo

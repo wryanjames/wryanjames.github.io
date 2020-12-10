@@ -2,7 +2,7 @@
 title: "CV"
 ---
 
-<a href="CV.pdf#" class="download" title="Download CV as PDF">Download CV</a>			
+<a href="CV 11.20.pdf#" class="download" title="Download CV as PDF">Download CV</a>			
 
 ## Header
 
