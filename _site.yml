@@ -5,22 +5,27 @@ navbar:
   type: inverse
   left:
     - text: "Home"
-      icon: fa-home
       href: index.html
-    - text: "About"
-      icon: fa-user 
+    - text: "Research"
       href: about.html
     - text: "CV"
-      icon: fa-file-pdf-o
       href: cv.html
     - text: "Publications"
-      icon: fa-rss
       href: publications.html  # CHANGE HERE OR DELETE ALL 3 LINES 
   right:
-    - text: "Contact me"
+    - text: ""
       icon: fa-envelope-o
       href: mailto:wjames@fiu.edu                    # CHANGE HERE 
-    - text: "GitHub"
+    - text: ""
+      icon: fa-twitter
+      href: https://twitter.com/wryanjames
+    - text: ""
+      icon: fa-researchgate
+      href: https://www.researchgate.net/profile/W_Ryan_James
+    - text: ""
+      icon: fa-google
+      href: https://scholar.google.com/citations?user=sl_Aa7YAAAAJ&hl=en
+    - text: ""
       icon: fa-github
       href: https://github.com/wryanjames       # CHANGE HERE 
 output:
