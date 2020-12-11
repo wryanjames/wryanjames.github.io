@@ -15,7 +15,7 @@ navbar:
       href: cv.html
     - text: "Publications"
       icon: fa-rss
-      href: https://YOURGITHUB.github.io/blog/  # CHANGE HERE OR DELETE ALL 3 LINES 
+      href: publications.html  # CHANGE HERE OR DELETE ALL 3 LINES 
   right:
     - text: "Contact me"
       icon: fa-envelope-o
@@ -25,5 +25,5 @@ navbar:
       href: https://github.com/wryanjames       # CHANGE HERE 
 output:
   html_document:
-    theme: cosmo
-    highlight: textmate
+    theme: yeti
+    highlight: haddock

@@ -1,0 +1,44 @@
+---
+title: "Publications"
+output: html_document
+---
+
+### Pre-prints and Under review
+__James WR__, Santos RO, Rehage JS, Doerr JC, & JA Nelson (2020) _E_-scape: consumer specific landscapes of energetic resources derived from stable isotope analysis and remote sensing. _bioXriv_  https://doi.org/10.1101/2020.08.03.234781       
+
+Santos RO, __James WR__, Nelson JA, Rehage JS, Serafy J, Pittman SJ, & D Lirman (*Under review*) Influence of seascape spatial pattern on the trophic niche of an omnivorous fish.     
+
+Rodemann JR, __James WR__, Santos RO, Furman BT, Fratto ZW, Bautista V, Hernandez JL, Viadero NM, Linenfelser JO, Lacy LA, Hall MO, Kelble CR, Kavanaugh C, & JS Rehage (*Under review*) Impact of extreme disturbances on suspended sediment in Western Florida Bay: Implicaitons for seagrass resilience.    
+
+### Peer Reviewed  
+#### 2020    
+Nelson JA, Harris JM, Lesser JS, __James WR__, Suir SM, & WP Broussard III (2020) New mapping metrics to test functional response of food webs to coastal restoration. _Food webs_ https://doi.org/10.1016/j.fooweb.2020.e00179  
+_Special issue: Restoration Initiatives Viewed Through a Lens of Food Web Structure and Dynamics_  
+
+Jones SF, Stagg CL, Yando ES, __James WR__, Buffington KJ, & MW Hester (2020) Quantifying and mapping plant community resilience along a stress gradient. _Journal of Ecology_ https://doi.org/10.1111/1365-2745.13552    
+_Special issue: Reconciling resilience across ecological systems, species and subdisciplines_  
+
+Baker R, Taylor MD, Beck MW, Cebrian J, Colombano DD, Connolly RM, Currin C, Deegan LA, Feller IC, Gilby BL, Kimball ME, Minello TJ, Rozas LP, Simenstad C, Turner RE, Waltham NJ, Weinstein MP, Ziegler SL, zu Ermgassen PSE, … __James WR__… (29 additional authors) (2020) Fisheries rely on threatened salt marshes. _Science_ [DOI: 10.1126/science.abe9332](https://science.sciencemag.org/content/370/6517/670.1.full)  
+
+__James WR__, Topor ZM, & RO Santos (2020) Seascape structure influences the community structure of marsh nekton. Estuaries & Coasts [doi: 10.1007/s12237-020-00853-7](https://link.springer.com/article/10.1007/s12237-020-00853-7)    
+_Special issue: Concepts and controversies in tidal marsh ecology revisited_
+
+Harris JM†, __James WR†__, Lesser JS†, Doerr JC, & JA Nelson (2020) Foundation species shift alters the energetic landscape of marsh nekton. Estuaries & Coasts [doi: 10.1007/s12237-020-00852-8](https://link.springer.com/article/10.1007/s12237-020-00852-8)        
+_†Contributed equally_  
+_Special issue: Concepts and controversies in tidal marsh ecology revisited_
+
+Lesser JS, __James WR__, Stallings CD, Wilson RM, & JA Nelson (2020) Trophic niche size and overlap decrease with increasing ecosystem productivity. _Oikos_ https://doi.org/10.1111/oik.07026   
+
+__James WR__, JS Lesser, SY Litvin, & JA Nelson (2020) Assessment of food web recovery following restoration using resource use metrics. _Science of the Total Environment_ https://doi.org/10.1016/j.scitotenv.2019.134801    
+
+#### 2019    
+Nelson JA, Lesser JS, __James WR__, Behringer DP, Furka V, & JC Doerr (2019) Food web response to foundation species change in a coastal ecosystem. _Food Webs_ https://doi.org/10.1016/j.fooweb.2019.e00125  
+
+Eggenberger CW, Santos RO, Frankovich T, __James WR__, Madden C, Nelson JA, & JS Rehage (2019) Coupling telemetry and stable isotope techniques to unravel movement: Snook habitat use across variable nutrient environments. _Fisheries Research_ https://doi.org/10.1016/j.fishres.2019.04.008  
+
+#### 2018 and earlier    
+__James WR__, Styga JM, White S, Marson KM, & RL Earley (2018) Developmentally plastic responses to predation threat in the mangrove rivulus fish (*Kryptolebias marmoratus*): behavior and morphology. _Evolutionary Ecology_ https://doi.org/10.1007/s10682-018-9952-5  
+
+__James WR__ & JB McClintock (2017) Anti-predator responses of amphipods are more effective in the presence of conspecific chemical cues. _Hydrobiologia_ https://doi.org/10.1007/s10750-017-3191-6     
+
+Smith KE, Aronson RB, Steffel BV, Amsler MO, Thatje S, Singh H, Anderson J, Brother CJ, Brown A, Ellis DS, Havenhand JN, __James WR__, Mosknes P, Randolph AW, Sayre-McCord T, & JB McClintock (2017) Climate change and the threat of novel marine predators in Antarctica. _Ecosphere_ https://doi.org/10.1002/ecs2.2017
