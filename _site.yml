@@ -7,26 +7,26 @@ navbar:
     - text: "Home"
       href: index.html
     - text: "Research"
-      href: about.html
+      href: research.html
     - text: "CV"
       href: cv.html
     - text: "Publications"
       href: publications.html  # CHANGE HERE OR DELETE ALL 3 LINES 
   right:
     - text: ""
-      icon: fa-envelope-o
+      icon: fab fa-envelope-o
       href: mailto:wjames@fiu.edu                    # CHANGE HERE 
     - text: ""
-      icon: fa-twitter
+      icon: fab fa-twitter
       href: https://twitter.com/wryanjames
     - text: ""
-      icon: fa-researchgate
+      icon: fab fa-researchgate
       href: https://www.researchgate.net/profile/W_Ryan_James
     - text: ""
-      icon: fa-google
+      icon: fab fa-google
       href: https://scholar.google.com/citations?user=sl_Aa7YAAAAJ&hl=en
     - text: ""
-      icon: fa-github
+      icon: fab fa-github
       href: https://github.com/wryanjames       # CHANGE HERE 
 output:
   html_document:

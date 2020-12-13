@@ -1,0 +1,12 @@
+---
+title: "Research"
+---
+<center>
+
+```{r, echo=FALSE, out.width="40%", align = 'center'}
+knitr::include_graphics("C:/Users/wrjam/Dropbox/WorkDocs/R/Github/wryanjames.github.io/figs/E-scape.png")     
+```     
+     
+[*E*-scapes](E-scape.html)
+
+</center>
