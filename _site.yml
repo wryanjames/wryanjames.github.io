@@ -9,7 +9,7 @@ navbar:
     - text: "Research"
       href: research.html
     - text: "CV"
-      href: cv.html
+      href: 'CV 11.20.pdf'
     - text: "Publications"
       href: publications.html  # CHANGE HERE OR DELETE ALL 3 LINES 
   right:

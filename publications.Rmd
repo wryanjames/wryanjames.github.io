@@ -3,17 +3,19 @@ title: "Publications"
 output: html_document
 ---
 
-### Pre-prints and Under review
+### *Pre-prints and Under review*
 
 **James WR**, Santos RO, Rehage JS, Doerr JC, & JA Nelson (2020) *E*-scape: consumer specific landscapes of energetic resources derived from stable isotope analysis and remote sensing. *bioXriv* <https://doi.org/10.1101/2020.08.03.234781>
+
+**James WR**, Santos RO, Rodemann JR, Fratto ZW, Furman BT, Hall MO, Kelble CR, Rehage JS, & JA Nelson (*Under review*) Widespread seagrass die-off has no legacy effect on resource use or trophic structure of seagrass food webs in Florida Bay, USA.
 
 Santos RO, **James WR**, Nelson JA, Rehage JS, Serafy J, Pittman SJ, & D Lirman (*Under review*) Influence of seascape spatial pattern on the trophic niche of an omnivorous fish.
 
 Rodemann JR, **James WR**, Santos RO, Furman BT, Fratto ZW, Bautista V, Hernandez JL, Viadero NM, Linenfelser JO, Lacy LA, Hall MO, Kelble CR, Kavanaugh C, & JS Rehage (*Under review*) Impact of extreme disturbances on suspended sediment in Western Florida Bay: Implicaitons for seagrass resilience.
 
-### Peer Reviewed
+### *Peer Reviewed*
 
-#### 2020
+#### **2020**
 
 Nelson JA, Harris JM, Lesser JS, **James WR**, Suir SM, & WP Broussard III (2020) New mapping metrics to test functional response of food webs to coastal restoration. *Food webs* <https://doi.org/10.1016/j.fooweb.2020.e00179>\
 *-Special issue: Restoration Initiatives Viewed Through a Lens of Food Web Structure and Dynamics*
@@ -34,13 +36,13 @@ Lesser JS, **James WR**, Stallings CD, Wilson RM, & JA Nelson (2020) Trophic nic
 
 **James WR**, JS Lesser, SY Litvin, & JA Nelson (2020) Assessment of food web recovery following restoration using resource use metrics. *Science of the Total Environment* <https://doi.org/10.1016/j.scitotenv.2019.134801>
 
-#### 2019
+#### **2019**
 
 Nelson JA, Lesser JS, **James WR**, Behringer DP, Furka V, & JC Doerr (2019) Food web response to foundation species change in a coastal ecosystem. *Food Webs* <https://doi.org/10.1016/j.fooweb.2019.e00125>
 
 Eggenberger CW, Santos RO, Frankovich T, **James WR**, Madden C, Nelson JA, & JS Rehage (2019) Coupling telemetry and stable isotope techniques to unravel movement: Snook habitat use across variable nutrient environments. *Fisheries Research* <https://doi.org/10.1016/j.fishres.2019.04.008>
 
-#### 2018 and earlier
+#### **2018 and earlier**
 
 **James WR**, Styga JM, White S, Marson KM, & RL Earley (2018) Developmentally plastic responses to predation threat in the mangrove rivulus fish (*Kryptolebias marmoratus*): behavior and morphology. *Evolutionary Ecology* <https://doi.org/10.1007/s10682-018-9952-5>
 
