@@ -34,9 +34,9 @@ Harris JM†, **James WR†**, Lesser JS†, Doerr JC, & JA Nelson (2020) Founda
 
 Lesser JS, **James WR**, Stallings CD, Wilson RM, & JA Nelson (2020) Trophic niche size and overlap decrease with increasing ecosystem productivity. *Oikos* <https://doi.org/10.1111/oik.07026>
 
-**James WR**, JS Lesser, SY Litvin, & JA Nelson (2020) Assessment of food web recovery following restoration using resource use metrics. *Science of the Total Environment* <https://doi.org/10.1016/j.scitotenv.2019.134801>
-
 #### **2019**
+
+**James WR**, JS Lesser, SY Litvin, & JA Nelson (2019) Assessment of food web recovery following restoration using resource use metrics. *Science of the Total Environment* <https://doi.org/10.1016/j.scitotenv.2019.134801>
 
 Nelson JA, Lesser JS, **James WR**, Behringer DP, Furka V, & JC Doerr (2019) Food web response to foundation species change in a coastal ecosystem. *Food Webs* <https://doi.org/10.1016/j.fooweb.2019.e00125>
 
