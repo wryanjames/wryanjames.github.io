@@ -6,15 +6,15 @@ navbar:
   left:
     - text: "Home"
       href: index.html
-    - text: "Research"
-      href: research.html
+    # - text: "Research"
+    #   href: research.html
     - text: "CV"
-      href: 'CV 11.20.pdf'
+      href: 'CV.pdf'
     - text: "Publications"
       href: publications.html  # CHANGE HERE OR DELETE ALL 3 LINES 
   right:
     - text: ""
-      icon: fab fa-envelope-o
+      icon: fas fa-envelope
       href: mailto:wjames@fiu.edu                    # CHANGE HERE 
     - text: ""
       icon: fab fa-twitter
