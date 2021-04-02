@@ -1,12 +1,81 @@
 ---
 title: "Research"
 ---
-<center>
 
-```{r, echo=FALSE, out.width="40%", align = 'center'}
-knitr::include_graphics("C:/Users/wrjam/Dropbox/WorkDocs/R/Github/wryanjames.github.io/figs/E-scape.png")     
-```     
-     
-[*E*-scapes](E-scape.html)
+## *E*-scapes - Consumer specific mapping of energetic resources
 
-</center>
+```{r e-scape, echo=FALSE, out.width="50%", out.extra='style="float:left; padding:10px"'}
+knitr::include_graphics("C:/Users/wrjam/Dropbox/WorkDocs/R/Github/wryanjames.github.io/figs/E-scape.png")   
+```
+
+Energy and habitat distribution are inherently linked. Energy is a major driver of the distribution of consumers, but estimating how much specific habitats contribute to the energetic needs of a consumer can be problematic. *E*-scapes, or energetic resource landscapes, are species-specific representations of the distribution of energetic resources. This technique combines where resources are being produced (habitat maps) with the resources that are being used by the consumer (stable isotope analysis). My research uses *E*-scapes alone and in combination with existing models to improve habitat management and restoration practices, test fundamental movement theory, predict species distributions, and quantify the change in habitat quality in relation to habitat change and disturbance.
+
+#### Related publications
+**James WR**, Santos RO, Rehage JS, Doerr JC, & JA Nelson (2020) *E*-scape: consumer specific landscapes of energetic resources derived from stable isotope analysis and remote sensing. *bioXriv* <https://doi.org/10.1101/2020.08.03.234781>
+
+Nelson JA, Harris JM, Lesser JS, **James WR**, Suir SM, & WP Broussard III (2020) New mapping metrics to test functional response of food webs to coastal restoration. *Food webs* <https://doi.org/10.1016/j.fooweb.2020.e00179>\
+
+Harris JM†, **James WR†**, Lesser JS†, Doerr JC, & JA Nelson (2020) Foundation species shift alters the energetic landscape of marsh nekton. *Estuaries & Coasts* [doi: 10.1007/s12237-020-00852-8](https://link.springer.com/article/10.1007/s12237-020-00852-8)\
+*†Contributed equally*\
+
+## Drivers of energy flow and trophic niche breadth 
+
+```{r fw, echo=FALSE, out.width="50%", out.extra='style="float:right; padding:10px"'}
+
+knitr::include_graphics("C:/Users/wrjam/Dropbox/WorkDocs/R/Github/wryanjames.github.io/figs/fw.png")   
+```
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+
+Food webs are an essential component of all ecosystems, and I am interested in understanding the drivers that affect the structure and function of food webs. My research tries to understand the abiotic and biotic factors that influence the resource use, trophic niche breadth and overlap of food webs.  
+
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+
+#### Related publications
+**James WR**, JS Lesser, SY Litvin, & JA Nelson (2019) Assessment of food web recovery following restoration using resource use metrics. *Science of the Total Environment* <https://doi.org/10.1016/j.scitotenv.2019.134801>
+
+Lesser JS, **James WR**, Stallings CD, Wilson RM, & JA Nelson (2020) Trophic niche size and overlap decrease with increasing ecosystem productivity. *Oikos* <https://doi.org/10.1111/oik.07026>
+
+Nelson JA, Lesser JS, **James WR**, Behringer DP, Furka V, & JC Doerr (2019) Food web response to foundation species change in a coastal ecosystem. *Food Webs* <https://doi.org/10.1016/j.fooweb.2019.e00125>
+
+## Effects of habitat amount and configuration on consumers
+
+```{r seascape, echo=FALSE, out.width="50%", out.extra='style="float:left; padding:10px"'}
+knitr::include_graphics("C:/Users/wrjam/Dropbox/WorkDocs/R/Github/wryanjames.github.io/figs/marshSeascape.jpg")   
+```
+
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+
+The amount and configuration of habitats can influence species presence, movement, and interactions. Natural and anthropogenic disturbances are leading to changes in the spatial configuration of habitats through landscape processes such as habitat loss and fragmentation. My research focuses on determining how landscape/seascape pattern and composition affect species distribution and movement, and how these factors affect the structure and function of food webs. 
+
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+
+#### Related publications
+**James WR**, Topor ZM, & RO Santos (2020) Seascape structure influences the community structure of marsh nekton. *Estuaries & Coasts* [doi: 10.1007/s12237-020-00853-7](https://link.springer.com/article/10.1007/s12237-020-00853-7)\
+
+Pittman SJ, Yates KL, Bouchet PJ,… **James WR**… (34 additional authors) (2021) Seascape ecology: Identifying research priorities for an emerging ocean sustainability science. *Marine Ecology Progress Series* <https://doi.org/10.3354/meps13661>\
+
+## Functional recovery of habitats after restoration
+```{r restoration, echo=FALSE, out.width="50%", out.extra='style="float:right; padding:10px"'}
+knitr::include_graphics("C:/Users/wrjam/Dropbox/WorkDocs/R/Github/wryanjames.github.io/figs/sabine.png")   
+```
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+
+Restoration is becoming increasingly common as a way to return the functionality of degraded ecosystems. I am interested in developing tools to better assess the functional recovery of habitats after restoration, and to determine the factors that aid in restoration success. 
+
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+#### Related publications
+
+**James WR**, JS Lesser, SY Litvin, & JA Nelson (2019) Assessment of food web recovery following restoration using resource use metrics. *Science of the Total Environment* <https://doi.org/10.1016/j.scitotenv.2019.134801>
+
+Nelson JA, Harris JM, Lesser JS, **James WR**, Suir SM, & WP Broussard III (2020) New mapping metrics to test functional response of food webs to coastal restoration. *Food webs* <https://doi.org/10.1016/j.fooweb.2020.e00179>\
+
