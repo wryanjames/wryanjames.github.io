@@ -28,7 +28,7 @@ knitr::include_graphics("C:/Users/wrjam/Dropbox/WorkDocs/R/Github/wryanjames.git
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 
-Food webs are an essential component of all ecosystems, and I am interested in understanding the drivers that affect the structure and function of food webs. My research tries to understand the abiotic and biotic factors that influence the resource use, trophic niche breadth and overlap of food webs.  
+Food webs are an essential component of all ecosystems, and I am interested in understanding the drivers that affect the structure and function of food webs. My research tries to understand the abiotic and biotic factors that influence the resource use, trophic niche breadth, and overlap of food webs.  
 
 <p>&nbsp;</p>
 <p>&nbsp;</p>
@@ -41,7 +41,7 @@ Lesser JS, **James WR**, Stallings CD, Wilson RM, & JA Nelson (2020) Trophic nic
 
 Nelson JA, Lesser JS, **James WR**, Behringer DP, Furka V, & JC Doerr (2019) Food web response to foundation species change in a coastal ecosystem. *Food Webs* <https://doi.org/10.1016/j.fooweb.2019.e00125>
 
-## Effects of habitat amount and configuration on consumers
+## Effects of spatial variation on ecological processes
 
 ```{r seascape, echo=FALSE, out.width="50%", out.extra='style="float:left; padding:10px"'}
 knitr::include_graphics("C:/Users/wrjam/Dropbox/WorkDocs/R/Github/wryanjames.github.io/figs/marshSeascape.jpg")   
@@ -50,11 +50,11 @@ knitr::include_graphics("C:/Users/wrjam/Dropbox/WorkDocs/R/Github/wryanjames.git
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 
-The amount and configuration of habitats can influence species presence, movement, and interactions. Natural and anthropogenic disturbances are leading to changes in the spatial configuration of habitats through landscape processes such as habitat loss and fragmentation. My research focuses on determining how landscape/seascape pattern and composition affect species distribution and movement, and how these factors affect the structure and function of food webs. 
+The spatial heterogeneity of the amount and configuration of habitats and environmental conditions can influence species presence, movement, and interactions. Natural and anthropogenic disturbances are leading to changes in the spatial configuration of habitats through landscape processes such as habitat loss and fragmentation. My research focuses on determining how landscape/seascape pattern and composition, as well as spatial variability in environmental conditions, affect species distribution and movement, and how these factors affect the structure and function of food webs. 
 
 <p>&nbsp;</p>
 <p>&nbsp;</p>
-<p>&nbsp;</p>
+
 
 #### Related publications
 **James WR**, Topor ZM, & RO Santos (2020) Seascape structure influences the community structure of marsh nekton. *Estuaries & Coasts* [doi: 10.1007/s12237-020-00853-7](https://link.springer.com/article/10.1007/s12237-020-00853-7)\
