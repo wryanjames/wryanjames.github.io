@@ -7,7 +7,7 @@ output: html_document
 
 **James WR**, Santos RO, Rehage JS, Doerr JC, & JA Nelson (2020) *E*-scape: consumer specific landscapes of energetic resources derived from stable isotope analysis and remote sensing. *bioXriv* <https://doi.org/10.1101/2020.08.03.234781>
 
-**James WR**, Santos RO, Rodemann JR, Fratto ZW, Furman BT, Hall MO, Kelble CR, Rehage JS, & JA Nelson (*Under review*) Widespread seagrass die-off has no legacy effect on resource use or trophic structure of seagrass food webs in Florida Bay, USA.
+**James WR**, Santos RO, Rodemann JR, Rezek RJ, Fratto ZW, Furman BT, Hall MO, Kelble CR, Rehage JS, & JA Nelson (*Under review*) Widespread seagrass die-off has no legacy effect on basal resource use of seagrass food webs in Florida Bay, USA.
 
 Santos RO, **James WR**, Nelson JA, Rehage JS, Serafy J, Pittman SJ, & D Lirman (*in revision*) Influence of seascape spatial pattern on the trophic niche of an omnivorous fish.
 
