@@ -9,8 +9,11 @@ output: html_document
 
 ### *Peer Reviewed*
 
-#### **2021**
+#### **2022**
+
 Santos RO, **James WR**, Nelson JA, Rehage JS, Serafy J, Pittman SJ, & D Lirman (*accepted*) Influence of seascape spatial pattern on the trophic niche of an omnivorous fish. *Ecosphere*
+
+#### **2021**
 
 **James WR**, Santos RO, Rehage JS, Doerr JC, & JA Nelson (2021) *E*-scape: consumer specific landscapes of energetic resources derived from stable isotope analysis and remote sensing. *Journal of Animal Ecology* <https://doi.org/10.1111/1365-2656.13637> [*Pre-print*](https://doi.org/10.1101/2020.08.03.234781)
 
