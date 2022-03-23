@@ -11,7 +11,7 @@ knitr::include_graphics("C:/Users/wrjam/Dropbox/WorkDocs/R/Github/wryanjames.git
 Energy and habitat distribution are inherently linked. Energy is a major driver of the distribution of consumers, but estimating how much specific habitats contribute to the energetic needs of a consumer can be problematic. *E*-scapes, or energetic resource landscapes, are species-specific representations of the distribution of energetic resources. This technique combines where resources are being produced (habitat maps) with the resources that are being used by the consumer (stable isotope analysis). My research uses *E*-scapes alone and in combination with existing models to improve habitat management and restoration practices, test fundamental movement theory, predict species distributions, and quantify the change in habitat quality in relation to habitat change and disturbance.
 
 #### Related publications
-**James WR**, Santos RO, Rehage JS, Doerr JC, & JA Nelson (2020) *E*-scape: consumer specific landscapes of energetic resources derived from stable isotope analysis and remote sensing. *bioXriv* <https://doi.org/10.1101/2020.08.03.234781>
+**James WR**, Santos RO, Rehage JS, Doerr JC, & JA Nelson (2021) *E*-scape: consumer specific landscapes of energetic resources derived from stable isotope analysis and remote sensing. *Journal of Animal Ecology* <https://doi.org/10.1111/1365-2656.13637>
 
 Nelson JA, Harris JM, Lesser JS, **James WR**, Suir SM, & WP Broussard III (2020) New mapping metrics to test functional response of food webs to coastal restoration. *Food webs* <https://doi.org/10.1016/j.fooweb.2020.e00179>\
 
@@ -39,6 +39,8 @@ Food webs are an essential component of all ecosystems, and I am interested in u
 
 Lesser JS, **James WR**, Stallings CD, Wilson RM, & JA Nelson (2020) Trophic niche size and overlap decrease with increasing ecosystem productivity. *Oikos* <https://doi.org/10.1111/oik.07026>
 
+Santos RO, **James WR**, Nelson JA, Rehage JS, Serafy J, Pittman SJ, & D Lirman (2022) Influence of seascape spatial pattern on the trophic niche of an omnivorous fish. *Ecosphere* <https://doi.org/10.1002/ecs2.3944>
+
 Nelson JA, Lesser JS, **James WR**, Behringer DP, Furka V, & JC Doerr (2019) Food web response to foundation species change in a coastal ecosystem. *Food Webs* <https://doi.org/10.1016/j.fooweb.2019.e00125>
 
 ## Effects of spatial variation on ecological processes
@@ -58,6 +60,8 @@ The spatial heterogeneity of the amount and configuration of habitats and enviro
 
 #### Related publications
 **James WR**, Topor ZM, & RO Santos (2020) Seascape structure influences the community structure of marsh nekton. *Estuaries & Coasts* [doi: 10.1007/s12237-020-00853-7](https://link.springer.com/article/10.1007/s12237-020-00853-7)\
+
+Santos RO, **James WR**, Nelson JA, Rehage JS, Serafy J, Pittman SJ, & D Lirman (2022) Influence of seascape spatial pattern on the trophic niche of an omnivorous fish. *Ecosphere* <https://doi.org/10.1002/ecs2.3944>
 
 Pittman SJ, Yates KL, Bouchet PJ,… **James WR**… (34 additional authors) (2021) Seascape ecology: Identifying research priorities for an emerging ocean sustainability science. *Marine Ecology Progress Series* <https://doi.org/10.3354/meps13661>\
 

@@ -7,11 +7,22 @@ output: html_document
 
 **James WR**, Santos RO, Rodemann JR, Rezek RJ, Fratto ZW, Furman BT, Hall MO, Kelble CR, Rehage JS, & JA Nelson (*in revision*) Widespread seagrass die-off has no legacy effect on basal resource use of seagrass food webs in Florida Bay, USA.
 
+**James WR**, Bautista V, Rezek RJ, Zink IC, Rehage JS, & RO Santos (*in review*) A review of the potential impacts of commercial inshore pink shrimp fisheries on recreational flats fisheries in Biscayne Bay, FL, USA.
+
+Foster EM, **James WR**, Doerr JC, & JA Nelson (*in review*) Seasonal shifts in resource use alter niche size, niche overlap, and trophic position in salt marsh consumers.
+
+Rezek RJ, **James WR**, Bautista V, Zink IC, Rehage JS, & RO Santos (*in review*) Temporal trends of Biscayne Bay pink shrimp fisheries catch and economic indicators.
+
+Gervasi CL, Karnauskas M, Rios A, Santos RO, **James WR**, Rezek RJ, & JS Rehage (*in review*) Rapid approach for assessing an unregulated fishery using a series of data-limited tools.
+
+Gervasi CL, Nelson JA, Swart PK, Santos RO, Rezek RJ, **James WR**, Jefferson AE, Drymon JM, Carroll J, Boucek RE, & JS Rehage (*in revision*) Otolith stable isotope micro-sampling to discriminate poorly studied stocks: Crevalle Jack in the eastern Gulf of Mexico.
+
+
 ### *Peer Reviewed*
 
 #### **2022**
 
-Santos RO, **James WR**, Nelson JA, Rehage JS, Serafy J, Pittman SJ, & D Lirman (*accepted*) Influence of seascape spatial pattern on the trophic niche of an omnivorous fish. *Ecosphere*
+Santos RO, **James WR**, Nelson JA, Rehage JS, Serafy J, Pittman SJ, & D Lirman (2022) Influence of seascape spatial pattern on the trophic niche of an omnivorous fish. *Ecosphere* <https://doi.org/10.1002/ecs2.3944>
 
 #### **2021**
 
