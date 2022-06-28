@@ -5,8 +5,6 @@ output: html_document
 
 ### *Under review*
 
-**James WR**, Santos RO, Rodemann JR, Rezek RJ, Fratto ZW, Furman BT, Hall MO, Kelble CR, Rehage JS, & JA Nelson (*in revision*) Widespread seagrass die-off has no legacy effect on basal resource use of seagrass food webs in Florida Bay, USA.
-
 **James WR**, Bautista V, Rezek RJ, Zink IC, Rehage JS, & RO Santos (*in review*) A review of the potential impacts of commercial inshore pink shrimp fisheries on recreational flats fisheries in Biscayne Bay, FL, USA.
 
 Foster EM, **James WR**, Doerr JC, & JA Nelson (*in review*) Seasonal shifts in resource use alter niche size, niche overlap, and trophic position in salt marsh consumers.
@@ -21,6 +19,8 @@ Gervasi CL, Nelson JA, Swart PK, Santos RO, Rezek RJ, **James WR**, Jefferson AE
 ### *Peer Reviewed*
 
 #### **2022**
+
+**James WR**, Santos RO, Rodemann JR, Rezek RJ, Fratto ZW, Furman BT, Hall MO, Kelble CR, Rehage JS, & JA Nelson (2022) Widespread seagrass die-off has no legacy effect on basal resource use of seagrass food webs in Florida Bay, USA. *ICES Journal of Marine Science* fsac112, <https://doi.org/10.1093/icesjms/fsac112>
 
 Santos RO, **James WR**, Nelson JA, Rehage JS, Serafy J, Pittman SJ, & D Lirman (2022) Influence of seascape spatial pattern on the trophic niche of an omnivorous fish. *Ecosphere* <https://doi.org/10.1002/ecs2.3944>
 
