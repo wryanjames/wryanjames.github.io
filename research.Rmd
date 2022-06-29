@@ -35,6 +35,8 @@ Food webs are an essential component of all ecosystems, and I am interested in u
 <p>&nbsp;</p>
 
 #### Related publications
+**James WR**, Santos RO, Rodemann JR, Rezek RJ, Fratto ZW, Furman BT, Hall MO, Kelble CR, Rehage JS, & JA Nelson (2022) Widespread seagrass die-off has no legacy effect on basal resource use of seagrass food webs in Florida Bay, USA. *ICES Journal of Marine Science* fsac112, <https://doi.org/10.1093/icesjms/fsac112>
+
 **James WR**, JS Lesser, SY Litvin, & JA Nelson (2019) Assessment of food web recovery following restoration using resource use metrics. *Science of the Total Environment* <https://doi.org/10.1016/j.scitotenv.2019.134801>
 
 Lesser JS, **James WR**, Stallings CD, Wilson RM, & JA Nelson (2020) Trophic niche size and overlap decrease with increasing ecosystem productivity. *Oikos* <https://doi.org/10.1111/oik.07026>

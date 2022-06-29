@@ -13,7 +13,7 @@
 
 <title>Research</title>
 
-<script src="site_libs/header-attrs-2.11/header-attrs.js"></script>
+<script src="site_libs/header-attrs-2.14/header-attrs.js"></script>
 <script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <link href="site_libs/bootstrap-3.3.5/css/yeti.min.css" rel="stylesheet" />
@@ -50,6 +50,7 @@
 
 
 
+
 <style type = "text/css">
 .main-container {
   max-width: 940px;
@@ -70,6 +71,9 @@ button.code-folding-btn:focus {
 }
 summary {
   display: list-item;
+}
+details > summary > p:only-child {
+  display: inline;
 }
 pre code {
   padding: 0;
@@ -222,7 +226,7 @@ $(document).ready(function () {
 <div class="navbar navbar-inverse  navbar-fixed-top" role="navigation">
   <div class="container">
     <div class="navbar-header">
-      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-bs-toggle="collapse" data-target="#navbar" data-bs-target="#navbar">
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
@@ -294,21 +298,48 @@ $(document).ready(function () {
 </div>
 
 
-<div id="e-scapes---consumer-specific-mapping-of-energetic-resources" class="section level2">
-<h2><em>E</em>-scapes - Consumer specific mapping of energetic resources</h2>
+<div id="e-scapes---consumer-specific-mapping-of-energetic-resources"
+class="section level2">
+<h2><em>E</em>-scapes - Consumer specific mapping of energetic
+resources</h2>
 <p><img src="figs/E-scape.png" width="50%" style="float:left; padding:10px" /></p>
-<p>Energy and habitat distribution are inherently linked. Energy is a major driver of the distribution of consumers, but estimating how much specific habitats contribute to the energetic needs of a consumer can be problematic. <em>E</em>-scapes, or energetic resource landscapes, are species-specific representations of the distribution of energetic resources. This technique combines where resources are being produced (habitat maps) with the resources that are being used by the consumer (stable isotope analysis). My research uses <em>E</em>-scapes alone and in combination with existing models to improve habitat management and restoration practices, test fundamental movement theory, predict species distributions, and quantify the change in habitat quality in relation to habitat change and disturbance.</p>
+<p>Energy and habitat distribution are inherently linked. Energy is a
+major driver of the distribution of consumers, but estimating how much
+specific habitats contribute to the energetic needs of a consumer can be
+problematic. <em>E</em>-scapes, or energetic resource landscapes, are
+species-specific representations of the distribution of energetic
+resources. This technique combines where resources are being produced
+(habitat maps) with the resources that are being used by the consumer
+(stable isotope analysis). My research uses <em>E</em>-scapes alone and
+in combination with existing models to improve habitat management and
+restoration practices, test fundamental movement theory, predict species
+distributions, and quantify the change in habitat quality in relation to
+habitat change and disturbance.</p>
 <div id="related-publications" class="section level4">
 <h4>Related publications</h4>
-<p><strong>James WR</strong>, Santos RO, Rehage JS, Doerr JC, &amp; JA Nelson (2021) <em>E</em>-scape: consumer specific landscapes of energetic resources derived from stable isotope analysis and remote sensing. <em>Journal of Animal Ecology</em> <a href="https://doi.org/10.1111/1365-2656.13637" class="uri">https://doi.org/10.1111/1365-2656.13637</a></p>
-<p>Nelson JA, Harris JM, Lesser JS, <strong>James WR</strong>, Suir SM, &amp; WP Broussard III (2020) New mapping metrics to test functional response of food webs to coastal restoration. <em>Food webs</em> <a href="https://doi.org/10.1016/j.fooweb.2020.e00179" class="uri">https://doi.org/10.1016/j.fooweb.2020.e00179</a><br />
+<p><strong>James WR</strong>, Santos RO, Rehage JS, Doerr JC, &amp; JA
+Nelson (2021) <em>E</em>-scape: consumer specific landscapes of
+energetic resources derived from stable isotope analysis and remote
+sensing. <em>Journal of Animal Ecology</em> <a
+href="https://doi.org/10.1111/1365-2656.13637"
+class="uri">https://doi.org/10.1111/1365-2656.13637</a></p>
+<p>Nelson JA, Harris JM, Lesser JS, <strong>James WR</strong>, Suir SM,
+&amp; WP Broussard III (2020) New mapping metrics to test functional
+response of food webs to coastal restoration. <em>Food webs</em> <a
+href="https://doi.org/10.1016/j.fooweb.2020.e00179"
+class="uri">https://doi.org/10.1016/j.fooweb.2020.e00179</a><br />
 </p>
-<p>Harris JM†, <strong>James WR†</strong>, Lesser JS†, Doerr JC, &amp; JA Nelson (2020) Foundation species shift alters the energetic landscape of marsh nekton. <em>Estuaries &amp; Coasts</em> <a href="https://link.springer.com/article/10.1007/s12237-020-00852-8">doi: 10.1007/s12237-020-00852-8</a><br />
+<p>Harris JM†, <strong>James WR†</strong>, Lesser JS†, Doerr JC, &amp;
+JA Nelson (2020) Foundation species shift alters the energetic landscape
+of marsh nekton. <em>Estuaries &amp; Coasts</em> <a
+href="https://link.springer.com/article/10.1007/s12237-020-00852-8">doi:
+10.1007/s12237-020-00852-8</a><br />
 <em>†Contributed equally</em><br />
 </p>
 </div>
 </div>
-<div id="drivers-of-energy-flow-and-trophic-niche-breadth" class="section level2">
+<div id="drivers-of-energy-flow-and-trophic-niche-breadth"
+class="section level2">
 <h2>Drivers of energy flow and trophic niche breadth</h2>
 <img src="figs/fw.png" width="50%" style="float:right; padding:10px" />
 <p>
@@ -320,7 +351,11 @@ $(document).ready(function () {
 <p>
  
 </p>
-<p>Food webs are an essential component of all ecosystems, and I am interested in understanding the drivers that affect the structure and function of food webs. My research tries to understand the abiotic and biotic factors that influence the resource use, trophic niche breadth, and overlap of food webs.</p>
+<p>Food webs are an essential component of all ecosystems, and I am
+interested in understanding the drivers that affect the structure and
+function of food webs. My research tries to understand the abiotic and
+biotic factors that influence the resource use, trophic niche breadth,
+and overlap of food webs.</p>
 <p>
  
 </p>
@@ -332,13 +367,36 @@ $(document).ready(function () {
 </p>
 <div id="related-publications-1" class="section level4">
 <h4>Related publications</h4>
-<p><strong>James WR</strong>, JS Lesser, SY Litvin, &amp; JA Nelson (2019) Assessment of food web recovery following restoration using resource use metrics. <em>Science of the Total Environment</em> <a href="https://doi.org/10.1016/j.scitotenv.2019.134801" class="uri">https://doi.org/10.1016/j.scitotenv.2019.134801</a></p>
-<p>Lesser JS, <strong>James WR</strong>, Stallings CD, Wilson RM, &amp; JA Nelson (2020) Trophic niche size and overlap decrease with increasing ecosystem productivity. <em>Oikos</em> <a href="https://doi.org/10.1111/oik.07026" class="uri">https://doi.org/10.1111/oik.07026</a></p>
-<p>Santos RO, <strong>James WR</strong>, Nelson JA, Rehage JS, Serafy J, Pittman SJ, &amp; D Lirman (2022) Influence of seascape spatial pattern on the trophic niche of an omnivorous fish. <em>Ecosphere</em> <a href="https://doi.org/10.1002/ecs2.3944" class="uri">https://doi.org/10.1002/ecs2.3944</a></p>
-<p>Nelson JA, Lesser JS, <strong>James WR</strong>, Behringer DP, Furka V, &amp; JC Doerr (2019) Food web response to foundation species change in a coastal ecosystem. <em>Food Webs</em> <a href="https://doi.org/10.1016/j.fooweb.2019.e00125" class="uri">https://doi.org/10.1016/j.fooweb.2019.e00125</a></p>
+<p><strong>James WR</strong>, Santos RO, Rodemann JR, Rezek RJ, Fratto
+ZW, Furman BT, Hall MO, Kelble CR, Rehage JS, &amp; JA Nelson (2022)
+Widespread seagrass die-off has no legacy effect on basal resource use
+of seagrass food webs in Florida Bay, USA. <em>ICES Journal of Marine
+Science</em> fsac112, <a href="https://doi.org/10.1093/icesjms/fsac112"
+class="uri">https://doi.org/10.1093/icesjms/fsac112</a></p>
+<p><strong>James WR</strong>, JS Lesser, SY Litvin, &amp; JA Nelson
+(2019) Assessment of food web recovery following restoration using
+resource use metrics. <em>Science of the Total Environment</em> <a
+href="https://doi.org/10.1016/j.scitotenv.2019.134801"
+class="uri">https://doi.org/10.1016/j.scitotenv.2019.134801</a></p>
+<p>Lesser JS, <strong>James WR</strong>, Stallings CD, Wilson RM, &amp;
+JA Nelson (2020) Trophic niche size and overlap decrease with increasing
+ecosystem productivity. <em>Oikos</em> <a
+href="https://doi.org/10.1111/oik.07026"
+class="uri">https://doi.org/10.1111/oik.07026</a></p>
+<p>Santos RO, <strong>James WR</strong>, Nelson JA, Rehage JS, Serafy J,
+Pittman SJ, &amp; D Lirman (2022) Influence of seascape spatial pattern
+on the trophic niche of an omnivorous fish. <em>Ecosphere</em> <a
+href="https://doi.org/10.1002/ecs2.3944"
+class="uri">https://doi.org/10.1002/ecs2.3944</a></p>
+<p>Nelson JA, Lesser JS, <strong>James WR</strong>, Behringer DP, Furka
+V, &amp; JC Doerr (2019) Food web response to foundation species change
+in a coastal ecosystem. <em>Food Webs</em> <a
+href="https://doi.org/10.1016/j.fooweb.2019.e00125"
+class="uri">https://doi.org/10.1016/j.fooweb.2019.e00125</a></p>
 </div>
 </div>
-<div id="effects-of-spatial-variation-on-ecological-processes" class="section level2">
+<div id="effects-of-spatial-variation-on-ecological-processes"
+class="section level2">
 <h2>Effects of spatial variation on ecological processes</h2>
 <p><img src="figs/marshSeascape.jpg" width="50%" style="float:left; padding:10px" /></p>
 <p>
@@ -347,7 +405,15 @@ $(document).ready(function () {
 <p>
  
 </p>
-<p>The spatial heterogeneity of the amount and configuration of habitats and environmental conditions can influence species presence, movement, and interactions. Natural and anthropogenic disturbances are leading to changes in the spatial configuration of habitats through landscape processes such as habitat loss and fragmentation. My research focuses on determining how landscape/seascape pattern and composition, as well as spatial variability in environmental conditions, affect species distribution and movement, and how these factors affect the structure and function of food webs.</p>
+<p>The spatial heterogeneity of the amount and configuration of habitats
+and environmental conditions can influence species presence, movement,
+and interactions. Natural and anthropogenic disturbances are leading to
+changes in the spatial configuration of habitats through landscape
+processes such as habitat loss and fragmentation. My research focuses on
+determining how landscape/seascape pattern and composition, as well as
+spatial variability in environmental conditions, affect species
+distribution and movement, and how these factors affect the structure
+and function of food webs.</p>
 <p>
  
 </p>
@@ -356,14 +422,27 @@ $(document).ready(function () {
 </p>
 <div id="related-publications-2" class="section level4">
 <h4>Related publications</h4>
-<p><strong>James WR</strong>, Topor ZM, &amp; RO Santos (2020) Seascape structure influences the community structure of marsh nekton. <em>Estuaries &amp; Coasts</em> <a href="https://link.springer.com/article/10.1007/s12237-020-00853-7">doi: 10.1007/s12237-020-00853-7</a><br />
+<p><strong>James WR</strong>, Topor ZM, &amp; RO Santos (2020) Seascape
+structure influences the community structure of marsh nekton.
+<em>Estuaries &amp; Coasts</em> <a
+href="https://link.springer.com/article/10.1007/s12237-020-00853-7">doi:
+10.1007/s12237-020-00853-7</a><br />
 </p>
-<p>Santos RO, <strong>James WR</strong>, Nelson JA, Rehage JS, Serafy J, Pittman SJ, &amp; D Lirman (2022) Influence of seascape spatial pattern on the trophic niche of an omnivorous fish. <em>Ecosphere</em> <a href="https://doi.org/10.1002/ecs2.3944" class="uri">https://doi.org/10.1002/ecs2.3944</a></p>
-<p>Pittman SJ, Yates KL, Bouchet PJ,… <strong>James WR</strong>… (34 additional authors) (2021) Seascape ecology: Identifying research priorities for an emerging ocean sustainability science. <em>Marine Ecology Progress Series</em> <a href="https://doi.org/10.3354/meps13661" class="uri">https://doi.org/10.3354/meps13661</a><br />
+<p>Santos RO, <strong>James WR</strong>, Nelson JA, Rehage JS, Serafy J,
+Pittman SJ, &amp; D Lirman (2022) Influence of seascape spatial pattern
+on the trophic niche of an omnivorous fish. <em>Ecosphere</em> <a
+href="https://doi.org/10.1002/ecs2.3944"
+class="uri">https://doi.org/10.1002/ecs2.3944</a></p>
+<p>Pittman SJ, Yates KL, Bouchet PJ,… <strong>James WR</strong>… (34
+additional authors) (2021) Seascape ecology: Identifying research
+priorities for an emerging ocean sustainability science. <em>Marine
+Ecology Progress Series</em> <a href="https://doi.org/10.3354/meps13661"
+class="uri">https://doi.org/10.3354/meps13661</a><br />
 </p>
 </div>
 </div>
-<div id="functional-recovery-of-habitats-after-restoration" class="section level2">
+<div id="functional-recovery-of-habitats-after-restoration"
+class="section level2">
 <h2>Functional recovery of habitats after restoration</h2>
 <img src="figs/sabine.png" width="50%" style="float:right; padding:10px" />
 <p>
@@ -372,7 +451,11 @@ $(document).ready(function () {
 <p>
  
 </p>
-<p>Restoration is becoming increasingly common as a way to return the functionality of degraded ecosystems. I am interested in developing tools to better assess the functional recovery of habitats after restoration, and to determine the factors that aid in restoration success.</p>
+<p>Restoration is becoming increasingly common as a way to return the
+functionality of degraded ecosystems. I am interested in developing
+tools to better assess the functional recovery of habitats after
+restoration, and to determine the factors that aid in restoration
+success.</p>
 <p>
  
 </p>
@@ -384,8 +467,16 @@ $(document).ready(function () {
 </p>
 <div id="related-publications-3" class="section level4">
 <h4>Related publications</h4>
-<p><strong>James WR</strong>, JS Lesser, SY Litvin, &amp; JA Nelson (2019) Assessment of food web recovery following restoration using resource use metrics. <em>Science of the Total Environment</em> <a href="https://doi.org/10.1016/j.scitotenv.2019.134801" class="uri">https://doi.org/10.1016/j.scitotenv.2019.134801</a></p>
-<p>Nelson JA, Harris JM, Lesser JS, <strong>James WR</strong>, Suir SM, &amp; WP Broussard III (2020) New mapping metrics to test functional response of food webs to coastal restoration. <em>Food webs</em> <a href="https://doi.org/10.1016/j.fooweb.2020.e00179" class="uri">https://doi.org/10.1016/j.fooweb.2020.e00179</a><br />
+<p><strong>James WR</strong>, JS Lesser, SY Litvin, &amp; JA Nelson
+(2019) Assessment of food web recovery following restoration using
+resource use metrics. <em>Science of the Total Environment</em> <a
+href="https://doi.org/10.1016/j.scitotenv.2019.134801"
+class="uri">https://doi.org/10.1016/j.scitotenv.2019.134801</a></p>
+<p>Nelson JA, Harris JM, Lesser JS, <strong>James WR</strong>, Suir SM,
+&amp; WP Broussard III (2020) New mapping metrics to test functional
+response of food webs to coastal restoration. <em>Food webs</em> <a
+href="https://doi.org/10.1016/j.fooweb.2020.e00179"
+class="uri">https://doi.org/10.1016/j.fooweb.2020.e00179</a><br />
 </p>
 </div>
 </div>
