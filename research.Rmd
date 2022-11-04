@@ -85,3 +85,16 @@ Restoration is becoming increasingly common as a way to return the functionality
 
 Nelson JA, Harris JM, Lesser JS, **James WR**, Suir SM, & WP Broussard III (2020) New mapping metrics to test functional response of food webs to coastal restoration. *Food webs* <https://doi.org/10.1016/j.fooweb.2020.e00179>\
 
+## Pharmaceutical distribution, pathways of exposure, and ecological impacts
+
+```{r, echo=FALSE, out.width="50%", out.extra='style="float:left; padding:10px"'}
+knitr::include_graphics("C:/Users/wrjam/Dropbox/WorkDocs/R/Github/wryanjames.github.io/figs/det_sampleSep.png")   
+```
+
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+
+Pharmaceuticals are a concerning threat to ecosystems, and the documentation of adverse sublethal effects has lead to the classification of pharmaceuticals as an emerging contaminant of concern. Pharmaceutical pollution in the environment results from a lack of removal by wastewater treatment. My research focuses on understanding the threat of pharmaceutical contaminants to ecosystems by distribution of pharmaceuticals, the pathways of exposure for organisms, and the ecological impacts on ecosystems of pharmaceuticals.
+
+<p>&nbsp;</p>
+<p>&nbsp;</p>
