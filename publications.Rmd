@@ -4,15 +4,15 @@ output: html_document
 ---
 
 ### *Under review*
+**James WR**, Furman BT, Rodemann JR, Costa SV, Fratto ZW, Nelson JA, Rehage JS, & RO Santos (*in review*) Widespread habitat loss leads to ecosystem-scale decrease in trophic function.
 
-Yando ES†, Jones SF†, **James WR†**, Colombano DD, Montemayor DI, Nolte S, Raw JL, Ziegler SL, Chen L, Daffonchio D, Fusi M, Rogers K, & L Sergienko. (*in revision*) An integrative salt marsh conceptual framework for global comparisons.\
-*†Contributed equally*\
+Santos RO, **James WR**, Rehage JS, Eggenberger CW, Lesser JS, & CJ Madden (*in review*) Trophic niche dynamics of two fish mesoconsumers in adjacent coastal habitats with varying nutrient regimes.
 
 Linenfelser JO, **James WR**, Rezek RJ, Santos RO, Frankovich TA, Madden C, Nelson JA, & JS Rehage (*in review*) Tracing the source of nutrients entering North-Central Florida Bay: a stable isotope approach.
 
-Rezek RJ, Massie JA, Nelson JA, Santos RO, Viadero NM, **James WR**, Boucek RE, & JS Rehage (*in revision*) The effects of temperature and flooding duration on the structure and magnitude of a floodplain prey subsidy.
-
 Foster EM, **James WR**, Doerr JC, & JA Nelson (*in review*) Seasonal shifts in resource use alter niche size, niche overlap, and trophic position in salt marsh consumers.
+
+Castillo NA, Santos RO, **James WR**, Rezek RJ, Cervany D, Boucek RE, Fick J, Brodin T, & JS Rehage (*in review*) Widespread pharmaceutical exposure at concentrations of concern for a subtropical coastal fishery: Bonefish (Albula vulpes). [Pre-print](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4394268)
 
 Gervasi CL, Karnauskas M, Rios A, Santos RO, **James WR**, Rezek RJ, & JS Rehage (*in revision*) Rapid approach for assessing an unregulated fishery using a series of data-limited tools.
 
@@ -20,6 +20,12 @@ Gervasi CL, Karnauskas M, Rios A, Santos RO, **James WR**, Rezek RJ, & JS Rehage
 ### *Peer Reviewed*
 
 #### **2023**
+Yando ES†, Jones SF†, **James WR†**, Colombano DD, Montemayor DI, Nolte S, Raw JL, Ziegler SL, Chen L, Daffonchio D, Fusi M, Rogers K, & L Sergienko. (2023) An integrative salt marsh conceptual framework for global comparisons. *Limnology and Oceanography Letters* <https://doi.org/10.1002/lol2.10346>\
+*†Contributed equally*\
+
+Iporac LAR, **James WR**, & Collado-Vides L (2023) Characterizing potential resource use of sargasso-dominant sea wrack by terrestrial invertebrate fauna during sargasso influxes in South Florida. *Estuarine, Coastal and Shelf Science* <https://doi.org/10.1016/j.ecss.2023.108414>\
+
+Rezek RJ, Massie JA, Nelson JA, Santos RO, Viadero NM, **James WR**, Boucek RE, & JS Rehage (2023) The effects of temperature and flooding duration on the structure and magnitude of a floodplain prey subsidy. *Freshwater Biology* <https://doi.org/10.1111/fwb.14145>\
 
 Rodemann JR, **James WR**, Rehage JS, Baktoft H, Costa SV, Ellis RD, Gonzalez L & RO Santos (2023) Residency and fine-scale habitat use of juvenile goliath grouper (*Epinephelus itajara*) in a mangrove nursery. *Bulletin of Marine Science* <https://doi.org/10.5343/bms.2022.0061>\
 
