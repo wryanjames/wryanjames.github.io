@@ -43,6 +43,8 @@ Lesser JS, **James WR**, Stallings CD, Wilson RM, & JA Nelson (2020) Trophic nic
 
 Santos RO, **James WR**, Nelson JA, Rehage JS, Serafy J, Pittman SJ, & D Lirman (2022) Influence of seascape spatial pattern on the trophic niche of an omnivorous fish. *Ecosphere* <https://doi.org/10.1002/ecs2.3944>
 
+Calhoun-Grosch S, Foster EM, **James WR**, Santos RO, Rehage JS, & JA Nelson (2023) Trophic niche metrics reveal long-term shift in Florida Bay food webs. *Ecosystems* <https://doi.org/10.1007/s10021-023-00825-5>\
+
 Nelson JA, Lesser JS, **James WR**, Behringer DP, Furka V, & JC Doerr (2019) Food web response to foundation species change in a coastal ecosystem. *Food Webs* <https://doi.org/10.1016/j.fooweb.2019.e00125>
 
 ## Effects of spatial variation on ecological processes
@@ -64,6 +66,8 @@ The spatial heterogeneity of the amount and configuration of habitats and enviro
 **James WR**, Topor ZM, & RO Santos (2020) Seascape structure influences the community structure of marsh nekton. *Estuaries & Coasts* [doi: 10.1007/s12237-020-00853-7](https://link.springer.com/article/10.1007/s12237-020-00853-7)\
 
 Santos RO, **James WR**, Nelson JA, Rehage JS, Serafy J, Pittman SJ, & D Lirman (2022) Influence of seascape spatial pattern on the trophic niche of an omnivorous fish. *Ecosphere* <https://doi.org/10.1002/ecs2.3944>
+
+Rodemann JR, **James WR**, Rehage JS, Baktoft H, Costa SV, Ellis RD, Gonzalez L & RO Santos (2023) Residency and fine-scale habitat use of juvenile goliath grouper (*Epinephelus itajara*) in a mangrove nursery. *Bulletin of Marine Science* <https://doi.org/10.5343/bms.2022.0061>\
 
 Pittman SJ, Yates KL, Bouchet PJ,… **James WR**… (34 additional authors) (2021) Seascape ecology: Identifying research priorities for an emerging ocean sustainability science. *Marine Ecology Progress Series* <https://doi.org/10.3354/meps13661>\
 
@@ -98,3 +102,9 @@ Pharmaceuticals are a concerning threat to ecosystems, and the documentation of 
 
 <p>&nbsp;</p>
 <p>&nbsp;</p>
+
+#### Related publications
+
+Castillo NA, **James WR**, Santos RO, Cerveny D, Boucek RE, Adams AJ, Goldberg T, Campbell L, Perez AU, Schmitter-Soto JJ, Lewis JP, Fick J, Brodin T, & JS Rehage (2024) Understanding pharmaceutical exposure and the potential for effects in marine biota: a survey of bonefish (*Albula vulpes*) across the Caribbean Basin.*Chemosphere* <https://doi.org/10.1016/j.chemosphere.2023.140949>\
+
+Castillo NA, Santos RO, **James WR**, Rezek RJ, Cervany D, Boucek RE, Fick J, Brodin T, & JS Rehage (*in review*) Widespread pharmaceutical exposure at concentrations of concern for a subtropical coastal fishery: Bonefish (*Albula vulpes*). [Pre-print](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4394268)

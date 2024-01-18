@@ -2,8 +2,13 @@
 title: "W. Ryan James"
 ---
 
-![](JamesPic.png){width="3in"}
 
-I am an interdisciplinary scientist that uses a combination of field surveys, experimental approaches, remote sensing, stable isotope analysis, and modeling to understand how ecosystems function and quantifying the drivers of consumer distribution, resource use, and movement. The overall goal of my research is to develop a predictive framework to determine the response of ecosystems to spatial variability in biotic and abiotic factors and future change. My research mainly focuses on marine and coastal ecosystems. I am currently a Senior Postdoctoral Research Associate in the Institute of the Environment at Florida International University.
+```{r e-scape, echo=FALSE, out.width="33%", out.extra='style="float:left; padding:10px"'}
+knitr::include_graphics("C:/Users/wrjam/Dropbox/WorkDocs/R/Github/wryanjames.github.io/JamesBonefish.png")   
+```
 
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+
+I am a interdisciplinary scientist interested in understanding the drivers of ecosystems at multiple scales. My research takes an integrative approach asking questions across multiple scales of ecological organization (individual-, population-, community-, and system-level) using a combination of field, experimental, and modeling approaches to test theories across multiple disciplines of ecology. The overall goal of my research is to develop a predictive framework to determine the response of biodiversity, fisheries, and ecosystem function to spatial variability in biotic and abiotic factors and future change to inform effective conservation strategies. I am currently a Senior Postdoctoral Research Associate in the Institute of the Environment at Florida International University.
 
