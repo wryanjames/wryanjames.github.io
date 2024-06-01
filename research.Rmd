@@ -13,6 +13,8 @@ Energy and habitat distribution are inherently linked. Energy is a major driver 
 #### Related publications
 **James WR**, Santos RO, Rehage JS, Doerr JC, & JA Nelson (2021) *E*-scape: consumer specific landscapes of energetic resources derived from stable isotope analysis and remote sensing. *Journal of Animal Ecology* <https://doi.org/10.1111/1365-2656.13637>
 
+**James WR**, Furman BT, Rodemann JR, Costa SV, Fratto ZW, Nelson JA, Rehage JS, & RO Santos (2024) Widespread habitat loss leads to ecosystem-scale decrease in trophic function.*Global Change Biology* <https://doi.org/10.1111/gcb.17263>\
+
 Nelson JA, Harris JM, Lesser JS, **James WR**, Suir SM, & WP Broussard III (2020) New mapping metrics to test functional response of food webs to coastal restoration. *Food webs* <https://doi.org/10.1016/j.fooweb.2020.e00179>\
 
 Harris JM†, **James WR†**, Lesser JS†, Doerr JC, & JA Nelson (2020) Foundation species shift alters the energetic landscape of marsh nekton. *Estuaries & Coasts* [doi: 10.1007/s12237-020-00852-8](https://link.springer.com/article/10.1007/s12237-020-00852-8)\

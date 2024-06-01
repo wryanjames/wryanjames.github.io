@@ -5,25 +5,39 @@ output: html_document
 
 ### *Under review*
 
-**James WR**, Furman BT, Rodemann JR, Costa SV, Fratto ZW, Nelson JA, Rehage JS, & RO Santos (*in review*) Widespread habitat loss leads to ecosystem-scale decrease in trophic function.
+Sturges JW, **James WR**, Rezek RJ, Santos RO, White M, Badlowski GA, Trabelsi S, Massie, JA, Nelson JA, Trexler JC, & JS Rehage (*in revision*) Seasonality drives green and brown energy pathways in food webs across an ecosystem gradient.
 
 Santos RO, **James WR**, Rehage JS, Eggenberger CW, Lesser JS, & CJ Madden (*in review*) Trophic niche dynamics of two fish mesoconsumers in adjacent coastal habitats with varying nutrient regimes.
 
 Linenfelser JO, **James WR**, Rezek RJ, Santos RO, Frankovich TA, Madden C, Nelson JA, & JS Rehage (*in review*) Tracing the source of nutrients entering North-Central Florida Bay: a stable isotope approach.
 
-Massie JA, Rezek RJ, **James WR**, Santos RO, Viadero NM, Boucek RE, & JS Rehage (*in review*) When the timing is right: linking a seasonal freshwater prey subsidy to the body condition of an estuarine consumer in a subtropical coastal river.
+Rodemann JR, **James WR**, Rehage JS, Furman BT, Pittman SJ, & RO Santos (*in review*) Response of submerged aquatic vegetation to a large-scale seagrass die-off: a case study in Florida Bay.
 
-Jones BLH, Santos RO, **James WR**, Costa SV, Adams AJ, Boucek RE, Coals LRM, Cullen-Unsworth LC, Shephard S, & JS Rehage (*in revision*) Lack of evolution in fisheries-associated Indigenous and local knowledge research reveals opportunities for growth.
+Castillo NA, Santos RO, **James WR**, Rezek RJ, Cerveny D, Boucek RE, Adams AJ, Fick J, Brodin T, & JS Rehage (*in review*) Differential tissue distribution of pharmaceuticals in a wild subtropical marine fish. 
+
+Santos RO, White M, **James WR**, Viadero NM, Massie JA, Boucek RE, & JS Rehage (*in review*) Cause and consequences of individual variability in space use in subtropical riverscapes. 
+
+Jones BLH, Santos RO, **James WR**, Shephard S, Adams AJ, Boucek RE, Coals L, Costa SV, Cullen-Unsworth LC, & JS Rehage (*in review*) Diversity trumps ability: employing the Wisdom of Crowds for fisheries management. 
+
+Massie JA, Rezek RJ, **James WR**, Santos RO, Viadero NM, Boucek RE, & JS Rehage (*in review*) When the timing is right: linking a seasonal freshwater prey subsidy to the body condition of an estuarine consumer in a subtropical coastal river.
 
 Castillo NA, Santos RO, **James WR**, Rezek RJ, Cervany D, Boucek RE, Fick J, Brodin T, & JS Rehage (*in review*) Widespread pharmaceutical exposure at concentrations of concern for a subtropical coastal fishery: Bonefish (*Albula vulpes*). [Pre-print](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4394268)
 
+Viadero NM, Massie JA, Eggenberger CW, **James WR**, Boucek RE, Rezek RJ, RO Santos, & JS Rehage (*in review*) Between a dry marsh and a salty place: estuarine habitat suitability for a freshwater fish (Florida largemouth bass) and implications for ecosystem restoration and climate change. 
+
 Rehage JS, Castillo NA, Distrubell A, Trabelsi S, Santos RO, **James WR**, Rezek R, Cerveny D, Boucek RE, Adams AJ, Fick J, & T Brodin (*in review*) A multi-estuary assessment of pharmaceutical exposure and risk of pharmacological effects in a recreational fishery.
 
-Raoult V, Phillips AA, Nelson JA, Niella Y, Skinner C, Tilcock MB, Burke PJ, Szpak P, **James WR**, & C Harrod (*in review*) Why aquatic scientists should use sulfur stable isotope ratios ($\delta^{34}$S) more often.
+Kahmann G, Rehage JS, Massie JA, Nelson JA, Santos RO, Viadero NM, **James WR**, Boucek RE, Crane DP, & RJ Rezek (*in revision*) Trophic niche overlap and increasing population of a nonnative invader in the coastal Everglades. 
 
 ### *Peer Reviewed*
 
 #### **2024**
+
+**James WR**, Furman BT, Rodemann JR, Costa SV, Fratto ZW, Nelson JA, Rehage JS, & RO Santos (2024) Widespread habitat loss leads to ecosystem-scale decrease in trophic function.*Global Change Biology* <https://doi.org/10.1111/gcb.17263>\
+
+Jones BLH, Santos RO, **James WR**, Costa SV, Adams AJ, Boucek RE, Coals LRM, Cullen-Unsworth LC, Shephard S, & JS Rehage (2024) Lack of evolution in fisheries-associated Indigenous and local knowledge research reveals opportunities for growth. *Fish and Fisheries* <https://doi.org/10.1111/faf.12831>\
+
+Raoult V, Phillips AA, Nelson JA, Niella Y, Skinner C, Tilcock MB, Burke PJ, Szpak P, **James WR**, & C Harrod (2024) Why aquatic scientists should use sulfur stable isotope ratios ($\delta^{34}$S) more often. *Chemosphere* <https://doi.org/10.1016/j.chemosphere.2024.141816>\
 
 Castillo NA, **James WR**, Santos RO, Cerveny D, Boucek RE, Adams AJ, Goldberg T, Campbell L, Perez AU, Schmitter-Soto JJ, Lewis JP, Fick J, Brodin T, & JS Rehage (2024) Understanding pharmaceutical exposure and the potential for effects in marine biota: a survey of bonefish (*Albula vulpes*) across the Caribbean Basin.*Chemosphere* <https://doi.org/10.1016/j.chemosphere.2023.140949>\
 
