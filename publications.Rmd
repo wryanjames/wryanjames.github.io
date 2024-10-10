@@ -5,6 +5,12 @@ output: html_document
 
 ### *Under review*
 
+**James WR**, Castillo NA, Distrubell, Trabelsi S, Santos RO, Cerveny D, Rezek RJ, Boucek RE, Adams AJ, Fick J, Brodin T, & JS Rehgae (*in revision*) Occurrence of pharmaceuticals in muscle tissue of a common fishery species across subtropical estuaries: comparison to blood plasma and implications to human exposure. 
+
+Rehage JS, Castillo NA, Distrubell A, Trabelsi S, Santos RO, , Rezek R, Cerveny D, Boucek RE, Adams AJ, Fick J, Brodin T, & **WR James** (*in review*) A multi-estuary assessment of pharmaceutical exposure and risk of pharmacological effects in a recreational fishery.
+
+Ziegler SL, **James WR**, Alber M, & JE Byers (*in revision*) Seascape structure likely influences resource use of marsh-associated estuarine consumers over a small spatial scale.
+
 Sturges JW, **James WR**, Rezek RJ, Santos RO, White M, Badlowski GA, Trabelsi S, Massie, JA, Nelson JA, Trexler JC, & JS Rehage (*in revision*) Seasonality drives green and brown energy pathways in food webs across an ecosystem gradient.
 
 Santos RO, **James WR**, Rehage JS, Eggenberger CW, Lesser JS, & CJ Madden (*in review*) Trophic niche dynamics of two fish mesoconsumers in adjacent coastal habitats with varying nutrient regimes.
@@ -12,8 +18,6 @@ Santos RO, **James WR**, Rehage JS, Eggenberger CW, Lesser JS, & CJ Madden (*in 
 Linenfelser JO, **James WR**, Rezek RJ, Santos RO, Frankovich TA, Madden C, Nelson JA, & JS Rehage (*in review*) Tracing the source of nutrients entering North-Central Florida Bay: a stable isotope approach.
 
 Rodemann JR, **James WR**, Rehage JS, Furman BT, Pittman SJ, & RO Santos (*in review*) Response of submerged aquatic vegetation to a large-scale seagrass die-off: a case study in Florida Bay.
-
-Castillo NA, Santos RO, **James WR**, Rezek RJ, Cerveny D, Boucek RE, Adams AJ, Fick J, Brodin T, & JS Rehage (*in review*) Differential tissue distribution of pharmaceuticals in a wild subtropical marine fish. 
 
 Santos RO, White M, **James WR**, Viadero NM, Massie JA, Boucek RE, & JS Rehage (*in review*) Cause and consequences of individual variability in space use in subtropical riverscapes. 
 
@@ -25,13 +29,13 @@ Castillo NA, Santos RO, **James WR**, Rezek RJ, Cervany D, Boucek RE, Fick J, Br
 
 Viadero NM, Massie JA, Eggenberger CW, **James WR**, Boucek RE, Rezek RJ, RO Santos, & JS Rehage (*in review*) Between a dry marsh and a salty place: estuarine habitat suitability for a freshwater fish (Florida largemouth bass) and implications for ecosystem restoration and climate change. 
 
-Rehage JS, Castillo NA, Distrubell A, Trabelsi S, Santos RO, **James WR**, Rezek R, Cerveny D, Boucek RE, Adams AJ, Fick J, & T Brodin (*in review*) A multi-estuary assessment of pharmaceutical exposure and risk of pharmacological effects in a recreational fishery.
-
-Kahmann G, Rehage JS, Massie JA, Nelson JA, Santos RO, Viadero NM, **James WR**, Boucek RE, Crane DP, & RJ Rezek (*in revision*) Trophic niche overlap and increasing population of a nonnative invader in the coastal Everglades. 
-
 ### *Peer Reviewed*
 
 #### **2024**
+Kahmann G, Rehage JS, Massie JA, Nelson JA, Santos RO, Viadero NM, **James WR**, Boucek RE, Crane DP, & RJ Rezek (2024) Trophic niche overlap and increasing population of a nonnative invader in the coastal Everglades. *Biological Invasions* <https://doi.org/10.1007/s10530-024-03444-w>\
+
+Castillo NA, Santos RO, **James WR**, Rezek RJ, Cerveny D, Boucek RE, Adams AJ, Fick J, Brodin T, & JS Rehage (2024) Differential tissue distribution of pharmaceuticals in a wild subtropical marine fish. *Aquatic Toxicology* <https://doi.org/10.1016/j.aquatox.2024.107064>\
+
 Castillo NA, **James WR**, Santos RO, Rezek RJ, Cerveny D, Boucek RE, Adams AJ, Trabelsi S, Distrubell A, Sanquist M, Fick J, Brodin T, & Rehage JS (2024) Identifying pathways of pharmaceutical exposure in a mesoconsumer marine fish. *Journal of Hazardous Materials* <https://doi.org/10.1016/j.jhazmat.2024.135382>\
 
 **James WR**, Furman BT, Rodemann JR, Costa SV, Fratto ZW, Nelson JA, Rehage JS, & RO Santos (2024) Widespread habitat loss leads to ecosystem-scale decrease in trophic function.*Global Change Biology* <https://doi.org/10.1111/gcb.17263>\
