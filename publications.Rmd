@@ -7,31 +7,41 @@ output: html_document
 
 **James WR**, Castillo NA, Distrubell, Trabelsi S, Santos RO, Cerveny D, Rezek RJ, Boucek RE, Adams AJ, Fick J, Brodin T, & JS Rehgae (*in revision*) Occurrence of pharmaceuticals in muscle tissue of a common fishery species across subtropical estuaries: comparison to blood plasma and implications to human exposure. 
 
-Rehage JS, Castillo NA, Distrubell A, Trabelsi S, Santos RO, , Rezek R, Cerveny D, Boucek RE, Adams AJ, Fick J, Brodin T, & **WR James** (*in review*) A multi-estuary assessment of pharmaceutical exposure and risk of pharmacological effects in a recreational fishery.
-
-Ziegler SL, **James WR**, Alber M, & JE Byers (*in revision*) Seascape structure likely influences resource use of marsh-associated estuarine consumers over a small spatial scale.
+Rehage JS, Castillo NA, Distrubell A, Trabelsi S, Santos RO, Rezek RJ, Cerveny D, Boucek RE, Adams AJ, Fick J, Brodin T, & **WR James** (*in revision*) A multi-estuary assessment of pharmaceutical exposure and risk of pharmacological effects in a recreational fishery.
 
 Sturges JW, **James WR**, Rezek RJ, Santos RO, White M, Badlowski GA, Trabelsi S, Massie, JA, Nelson JA, Trexler JC, & JS Rehage (*in revision*) Seasonality drives green and brown energy pathways in food webs across an ecosystem gradient.
 
-Santos RO, **James WR**, Rehage JS, Eggenberger CW, Lesser JS, & CJ Madden (*in review*) Trophic niche dynamics of two fish mesoconsumers in adjacent coastal habitats with varying nutrient regimes.
+White M, **James WR**, Lesser JS, Rezek RJ, Rodemann JR, Boucek RE, Santos RO, & JS Rehage (*in review*) Linking hydrology, temperature, and energetics: global change implications for the foraging ecology of a generalist predator. 
 
 Linenfelser JO, **James WR**, Rezek RJ, Santos RO, Frankovich TA, Madden C, Nelson JA, & JS Rehage (*in review*) Tracing the source of nutrients entering North-Central Florida Bay: a stable isotope approach.
 
-Rodemann JR, **James WR**, Rehage JS, Furman BT, Pittman SJ, & RO Santos (*in review*) Response of submerged aquatic vegetation to a large-scale seagrass die-off: a case study in Florida Bay.
-
-Santos RO, White M, **James WR**, Viadero NM, Massie JA, Boucek RE, & JS Rehage (*in review*) Cause and consequences of individual variability in space use in subtropical riverscapes. 
-
-Jones BLH, Santos RO, **James WR**, Shephard S, Adams AJ, Boucek RE, Coals L, Costa SV, Cullen-Unsworth LC, & JS Rehage (*in review*) Diversity trumps ability: employing the Wisdom of Crowds for fisheries management. 
+Rodemann JR, **James WR**, Rehage JS, Furman BT, Pittman SJ, & RO Santos (*in revision*) Response of submerged aquatic vegetation to a large-scale seagrass die-off: a case study in Florida Bay.
 
 Massie JA, Rezek RJ, **James WR**, Santos RO, Viadero NM, Boucek RE, & JS Rehage (*in review*) When the timing is right: linking a seasonal freshwater prey subsidy to the body condition of an estuarine consumer in a subtropical coastal river.
 
-Castillo NA, Santos RO, **James WR**, Rezek RJ, Cervany D, Boucek RE, Fick J, Brodin T, & JS Rehage (*in review*) Widespread pharmaceutical exposure at concentrations of concern for a subtropical coastal fishery: Bonefish (*Albula vulpes*). [Pre-print](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4394268)
-
 Viadero NM, Massie JA, Eggenberger CW, **James WR**, Boucek RE, Rezek RJ, RO Santos, & JS Rehage (*in review*) Between a dry marsh and a salty place: estuarine habitat suitability for a freshwater fish (Florida largemouth bass) and implications for ecosystem restoration and climate change. 
+
+Massie JA, Rezek RJ, Santos RO, **James WR**, Viadero NM, Boucek RE, & JS Rehage (*in review*) Long-term patterns in the relative abundance of Common Snook as a factor of shifting environmental conditions in the Florida Coastal Everglades.
+
+Goldner VS, White M, Eggenberger C, Jones AA, Atkinson CC, Rodemann JR, **James WR**, Massie JA, Kroetz AM, O’Donnell PM, Boucek RE, Santos RO, & JS Rehage (*in review*) Gone but not forgotten: collaborative telemetry network provides insight into out-of-system movements of Common Snook (*Centropomus undecimalis*).
 
 ### *Peer Reviewed*
 
+#### **2025**
+
+Santos RO, **James WR**, Rehage JS, Eggenberger CW, Lesser JS, & CJ Madden (*accepted*) Trophic niche dynamics of two fish mesoconsumers in adjacent coastal habitats with varying nutrient regimes. *Oecologia*\
+
+Santos RO, White M, **James WR**, Viadero NM, Massie JA, Boucek RE, & JS Rehage (2025) Cause and consequences of individual variability in space use in subtropical riverscapes. *Scientific Reports* <https://doi.org/10.1038/s41598-024-82158-4>\
+
 #### **2024**
+
+Jones BLH, Santos RO, **James WR**, Shephard S, Adams AJ, Boucek RE, Coals L, Costa SV, Cullen-Unsworth LC, & JS Rehage (2024) Diversity trumps ability: employing the Wisdom of Crowds for fisheries management. *Scientific Reports* <https://doi.org/10.1038/s41598-024-84970-4>\
+
+Ziegler SL, **James WR**, Alber M, & JE Byers (2024) Seascape structure likely influences resource use of marsh-associated estuarine consumers over a small spatial scale. *Marine Ecology Progress Series* <https://doi.org/10.3354/meps14755>\
+
+Castillo NA, Santos RO, **James WR**, Rezek RJ, Cervany D, Boucek RE, Fick J, Brodin T, & JS Rehage (2024) Widespread pharmaceutical exposure at concentrations of concern for a subtropical coastal fishery: Bonefish (*Albula vulpes*). *Marine Pollution Bulletin* <https://doi.org/10.1016/j.marpolbul.2024.117143>\
+[Pre-print](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4394268)\
+
 Kahmann G, Rehage JS, Massie JA, Nelson JA, Santos RO, Viadero NM, **James WR**, Boucek RE, Crane DP, & RJ Rezek (2024) Trophic niche overlap and increasing population of a nonnative invader in the coastal Everglades. *Biological Invasions* <https://doi.org/10.1007/s10530-024-03444-w>\
 
 Castillo NA, Santos RO, **James WR**, Rezek RJ, Cerveny D, Boucek RE, Adams AJ, Fick J, Brodin T, & JS Rehage (2024) Differential tissue distribution of pharmaceuticals in a wild subtropical marine fish. *Aquatic Toxicology* <https://doi.org/10.1016/j.aquatox.2024.107064>\
