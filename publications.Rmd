@@ -5,8 +5,6 @@ output: html_document
 
 ### *Under review*
 
-**James WR**, Castillo NA, Distrubell, Trabelsi S, Santos RO, Cerveny D, Rezek RJ, Boucek RE, Adams AJ, Fick J, Brodin T, & JS Rehgae (*in revision*) Occurrence of pharmaceuticals in muscle tissue of a common fishery species across subtropical estuaries: comparison to blood plasma and implications to human exposure. 
-
 Rehage JS, Castillo NA, Distrubell A, Trabelsi S, Santos RO, Rezek RJ, Cerveny D, Boucek RE, Adams AJ, Fick J, Brodin T, & **WR James** (*in revision*) A multi-estuary assessment of pharmaceutical exposure and risk of pharmacological effects in a recreational fishery.
 
 Sturges JW, **James WR**, Rezek RJ, Santos RO, White M, Badlowski GA, Trabelsi S, Massie, JA, Nelson JA, Trexler JC, & JS Rehage (*in revision*) Seasonality drives green and brown energy pathways in food webs across an ecosystem gradient.
@@ -14,8 +12,6 @@ Sturges JW, **James WR**, Rezek RJ, Santos RO, White M, Badlowski GA, Trabelsi S
 White M, **James WR**, Lesser JS, Rezek RJ, Rodemann JR, Boucek RE, Santos RO, & JS Rehage (*in review*) Linking hydrology, temperature, and energetics: global change implications for the foraging ecology of a generalist predator. 
 
 Linenfelser JO, **James WR**, Rezek RJ, Santos RO, Frankovich TA, Madden C, Nelson JA, & JS Rehage (*in review*) Tracing the source of nutrients entering North-Central Florida Bay: a stable isotope approach.
-
-Rodemann JR, **James WR**, Rehage JS, Furman BT, Pittman SJ, & RO Santos (*in revision*) Response of submerged aquatic vegetation to a large-scale seagrass die-off: a case study in Florida Bay.
 
 Massie JA, Rezek RJ, **James WR**, Santos RO, Viadero NM, Boucek RE, & JS Rehage (*in review*) When the timing is right: linking a seasonal freshwater prey subsidy to the body condition of an estuarine consumer in a subtropical coastal river.
 
@@ -28,6 +24,10 @@ Goldner VS, White M, Eggenberger C, Jones AA, Atkinson CC, Rodemann JR, **James 
 ### *Peer Reviewed*
 
 #### **2025**
+
+**James WR**, Castillo NA, Distrubell, Trabelsi S, Santos RO, Cerveny D, Rezek RJ, Boucek RE, Adams AJ, Fick J, Brodin T, & JS Rehgae (*accepted*) Occurrence of pharmaceuticals in muscle tissue of red drum (*Sciaenops ocellatus*) across subtropical estuaries: comparison to blood plasma and implications for human exposure . *Science of the Total Environment*\
+
+Rodemann JR, **James WR**, Rehage JS, Furman BT, Pittman SJ, & RO Santos (*accepted*) Response of submerged aquatic vegetation to a large-scale seagrass die-off: a case study in Florida Bay. *Estuarine, Coastal and Shelf Science*\
 
 Santos RO, **James WR**, Rehage JS, Eggenberger CW, Lesser JS, & CJ Madden (*accepted*) Trophic niche dynamics of two fish mesoconsumers in adjacent coastal habitats with varying nutrient regimes. *Oecologia*\
 
@@ -48,7 +48,7 @@ Castillo NA, Santos RO, **James WR**, Rezek RJ, Cerveny D, Boucek RE, Adams AJ, 
 
 Castillo NA, **James WR**, Santos RO, Rezek RJ, Cerveny D, Boucek RE, Adams AJ, Trabelsi S, Distrubell A, Sanquist M, Fick J, Brodin T, & Rehage JS (2024) Identifying pathways of pharmaceutical exposure in a mesoconsumer marine fish. *Journal of Hazardous Materials* <https://doi.org/10.1016/j.jhazmat.2024.135382>\
 
-**James WR**, Furman BT, Rodemann JR, Costa SV, Fratto ZW, Nelson JA, Rehage JS, & RO Santos (2024) Widespread habitat loss leads to ecosystem-scale decrease in trophic function.*Global Change Biology* <https://doi.org/10.1111/gcb.17263>\
+**James WR**, Furman BT, Rodemann JR, Costa SV, Fratto ZW, Nelson JA, Rehage JS, & RO Santos (2024) Widespread habitat loss leads to ecosystem-scale decrease in trophic function. *Global Change Biology* <https://doi.org/10.1111/gcb.17263>\
 
 Jones BLH, Santos RO, **James WR**, Costa SV, Adams AJ, Boucek RE, Coals LRM, Cullen-Unsworth LC, Shephard S, & JS Rehage (2024) Lack of evolution in fisheries-associated Indigenous and local knowledge research reveals opportunities for growth. *Fish and Fisheries* <https://doi.org/10.1111/faf.12831>\
 
@@ -114,7 +114,7 @@ Baker R, Taylor MD, Beck MW, Cebrian J, Colombano DD, Connolly RM, Currin C, Dee
 **James WR**, Topor ZM, & RO Santos (2020) Seascape structure influences the community structure of marsh nekton. *Estuaries & Coasts* [doi: 10.1007/s12237-020-00853-7](https://link.springer.com/article/10.1007/s12237-020-00853-7)\
 [*-Special issue: Concepts and controversies in tidal marsh ecology revisited*](https://link.springer.com/journal/12237/volumes-and-issues/44-6)
 
-Harris JM†, **James WR†**, Lesser JS†, Doerr JC, & JA Nelson (2020) Foundation species shift alters the energetic landscape of marsh nekton. Estuaries & Coasts [doi: 10.1007/s12237-020-00852-8](https://link.springer.com/article/10.1007/s12237-020-00852-8)\
+Harris JM†, **James WR†**, Lesser JS†, Doerr JC, & JA Nelson (2020) Foundation species shift alters the energetic landscape of marsh nekton. *Estuaries & Coasts* [doi: 10.1007/s12237-020-00852-8](https://link.springer.com/article/10.1007/s12237-020-00852-8)\
 *†Contributed equally*\
 [*-Special issue: Concepts and controversies in tidal marsh ecology revisited*](https://link.springer.com/journal/12237/volumes-and-issues/44-6)
 

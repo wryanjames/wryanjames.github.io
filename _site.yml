@@ -18,7 +18,7 @@ navbar:
       href: mailto:wjames@fiu.edu                    # CHANGE HERE 
     - text: ""
       icon: fab fa-twitter
-      href: https://twitter.com/wryanjames
+      href: https://bsky.app/profile/wryanjames.bsky.social
     - text: ""
       icon: fab fa-researchgate
       href: https://www.researchgate.net/profile/W_Ryan_James
