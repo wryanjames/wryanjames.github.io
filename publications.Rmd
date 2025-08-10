@@ -4,32 +4,40 @@ output: html_document
 ---
 
 ### *Under review*
-
-Rehage JS, Castillo NA, Distrubell A, Trabelsi S, Santos RO, Rezek RJ, Cerveny D, Boucek RE, Adams AJ, Fick J, Brodin T, & **WR James** (*in revision*) A multi-estuary assessment of pharmaceutical exposure and risk of pharmacological effects in a recreational fishery.
+Geary B, **James WR**, Karubian J, Nelson JA, & PL Leberg (*in revision*) Remote sensing and foraging data illustrate landscape-scale considerations for coastal restoration and avian management.
 
 Sturges JW, **James WR**, Rezek RJ, Santos RO, White M, Badlowski GA, Trabelsi S, Massie, JA, Nelson JA, Trexler JC, & JS Rehage (*in revision*) Seasonality drives green and brown energy pathways in food webs across an ecosystem gradient.
 
-White M, **James WR**, Lesser JS, Rezek RJ, Rodemann JR, Boucek RE, Santos RO, & JS Rehage (*in review*) Linking hydrology, temperature, and energetics: global change implications for the foraging ecology of a generalist predator. 
-
 Linenfelser JO, **James WR**, Rezek RJ, Santos RO, Frankovich TA, Madden C, Nelson JA, & JS Rehage (*in review*) Tracing the source of nutrients entering North-Central Florida Bay: a stable isotope approach.
+
+Rivas N, **James WR**, Bautista V, Sandquist M, Guerriero AF, Arias SB, Mercado A, Rehage JS, & RO Santos (*in review*) Tipping the balance: Reef community shifts after a regional urchin population collapse.
+
+Rodemann JR, **James WR**, Rehage JS, Santos RO, Fratto ZW, Strazisar T, Madden CJ, & TA Frankovich (*in revision*) Drivers of Spatiotemporal SAV Dynamics in the Coastal Lakes of Everglades National Park.
+
+Rodemann JR, White M, **James WR**, Santos RO, Griffin LP, Costa SV, Furman BT, Pittman SJ, Gann D, & JS Rehage (*in review*) Hierarchical habitat selection by a predatory fish in a patchy seascape.
 
 Massie JA, Rezek RJ, **James WR**, Santos RO, Viadero NM, Boucek RE, & JS Rehage (*in review*) When the timing is right: linking a seasonal freshwater prey subsidy to the body condition of an estuarine consumer in a subtropical coastal river.
 
-Viadero NM, Massie JA, Eggenberger CW, **James WR**, Boucek RE, Rezek RJ, RO Santos, & JS Rehage (*in review*) Between a dry marsh and a salty place: estuarine habitat suitability for a freshwater fish (Florida largemouth bass) and implications for ecosystem restoration and climate change. 
-
-Massie JA, Rezek RJ, Santos RO, **James WR**, Viadero NM, Boucek RE, & JS Rehage (*in review*) Long-term patterns in the relative abundance of Common Snook as a factor of shifting environmental conditions in the Florida Coastal Everglades.
+Herlan JJ, Staniczenko PPA, Loh JM, Santos RO, **James WR**, Gleason ACR, Edwards C, Gosnell JS, McDonald KC, Friedlander AM, & C Gaymer (*in review*) Impact of wave exposure and habitat structural complexity on the reefscape ecology at Rapa Nui
 
 Goldner VS, White M, Eggenberger C, Jones AA, Atkinson CC, Rodemann JR, **James WR**, Massie JA, Kroetz AM, O’Donnell PM, Boucek RE, Santos RO, & JS Rehage (*in review*) Gone but not forgotten: collaborative telemetry network provides insight into out-of-system movements of Common Snook (*Centropomus undecimalis*).
 
 ### *Peer Reviewed*
 
 #### **2025**
+White M, **James WR**, Lesser JS, Rezek RJ, Rodemann JR, Boucek RE, Santos RO, & JS Rehage (*accepted*) Linking hydrology, temperature, and energetics: global change implications for the foraging ecology of a generalist predator. *Marine and Coastal Fisheries*
 
-**James WR**, Castillo NA, Distrubell, Trabelsi S, Santos RO, Cerveny D, Rezek RJ, Boucek RE, Adams AJ, Fick J, Brodin T, & JS Rehgae (*accepted*) Occurrence of pharmaceuticals in muscle tissue of red drum (*Sciaenops ocellatus*) across subtropical estuaries: comparison to blood plasma and implications for human exposure. *Science of the Total Environment*\
+Massie JA, Rezek RJ, Santos RO, **James WR**, Viadero NM, Boucek RE, & JS Rehage (*accepted*) Long-term patterns in the relative abundance of Common Snook as a factor of shifting environmental conditions in the Florida Coastal Everglades. *Marine and Coastal Fisheries*
 
-Rodemann JR, **James WR**, Rehage JS, Furman BT, Pittman SJ, & RO Santos (*accepted*) Response of submerged aquatic vegetation to a large-scale seagrass die-off: a case study in Florida Bay. *Estuarine, Coastal and Shelf Science*\
+Viadero NM, Massie JA, Eggenberger CW, **James WR**, Boucek RE, Rezek RJ, RO Santos, & JS Rehage (2025) Between a dry marsh and a salty place: estuarine habitat suitability for a freshwater fish (Florida largemouth bass) and implications for ecosystem restoration and climate change. *Estuaries & Coasts* <https://doi.org/10.1007/s12237-025-01561-w>\
 
-Santos RO, **James WR**, Rehage JS, Eggenberger CW, Lesser JS, & CJ Madden (*accepted*) Trophic niche dynamics of two fish mesoconsumers in adjacent coastal habitats with varying nutrient regimes. *Oecologia*\
+Rehage JS, Castillo NA, Distrubell A, Trabelsi S, Santos RO, Rezek RJ, Cerveny D, Boucek RE, Adams AJ, Fick J, Brodin T, & **WR James** (2025) A multi-estuary assessment of pharmaceutical exposure and risk of pharmacological effects in a recreational fishery. *Environmental Toxicology and Chemistry* <https://doi.org/10.1093/etojnl/vgaf125>\
+
+**James WR**, Castillo NA, Distrubell, Trabelsi S, Santos RO, Cerveny D, Rezek RJ, Boucek RE, Adams AJ, Fick J, Brodin T, & JS Rehgae (2025) Occurrence of pharmaceuticals in muscle tissue of red drum (*Sciaenops ocellatus*) across subtropical estuaries: comparison to blood plasma and implications for human exposure. *Science of the Total Environment* <https://doi.org/10.1016/j.scitotenv.2025.179106>\
+
+Rodemann JR, **James WR**, Rehage JS, Furman BT, Pittman SJ, & RO Santos (2025) Response of submerged aquatic vegetation to a large-scale seagrass die-off: a case study in Florida Bay. *Estuarine, Coastal and Shelf Science* <https://doi.org/10.1016/j.ecss.2025.109221>\
+
+Santos RO, **James WR**, Rehage JS, Eggenberger CW, Lesser JS, & CJ Madden (2025) Trophic niche dynamics of two fish mesoconsumers in adjacent coastal habitats with varying nutrient regimes. *Oecologia* <https://doi.org/10.1007/s00442-025-05680-w>\
 
 Santos RO, White M, **James WR**, Viadero NM, Massie JA, Boucek RE, & JS Rehage (2025) Cause and consequences of individual variability in space use in subtropical riverscapes. *Scientific Reports* <https://doi.org/10.1038/s41598-024-82158-4>\
 
