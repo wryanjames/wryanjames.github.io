@@ -6,9 +6,9 @@ output: html_document
 ### *Under review*
 **James WR**, White M, Rodemann JR, Badlowski GA, Sturges JW, Leavitt H, Lesser JS, Bautista V, Castillo NA, Costa SV. Distrubell A, Eggenberger CW, Kabat LJ, Linenfelser JO, Rivas N, Trabelsi S, Rehage JS, & RO Santos (*in review*) Seasonality in species trophic niche width and position alters community niche occupancy. 
 
-Rodemann JR, **James WR**, Rehage JS, Santos RO, Fratto ZW, Strazisar T, Madden CJ, & TA Frankovich (*in revision*) Drivers of Spatiotemporal SAV Dynamics in the Coastal Lakes of Everglades National Park.
+Jones AA, Leavitt H, Nation C, Lesser JS, LaBadie J, Boucek RE, Santos RO, Rehage JS, & **WR James** (*in review*) Temporal shifts in Bonefish (Albula vulpes) diet across the Florida Keys.
 
-White M, **James WR**, Lemoine NP, Allgeier JE, Stier AC, Emery KA, Castorani MCN, Capone D, Stajner A, Enright L, Grier S, Cawley G, Spivak A, Nelson JA, Hopcroft RR, Chen A, Lyon NJ, Kui L, Caselle JE, Strickland BA, Peters J, Rehage JS, & D Burkepile (*in revision*). Scale-dependent effects of species richness and asynchrony regulate the temporal stability of consumer-mediated nutrient dynamics.
+Rodemann JR, **James WR**, Rehage JS, Santos RO, Fratto ZW, Strazisar T, Madden CJ, & TA Frankovich (*in revision*) Drivers of Spatiotemporal SAV Dynamics in the Coastal Lakes of Everglades National Park.
 
 Herrera MA, **James WR**, Boucek RE, Andres MJ, Ault JER, Bassos-Hull K, Brownscombe J, Dance M, Ellis RD, Fox D, Gardiner J, Griffin LP, Kroetz AM, Lamont MM, Locascio J, Lowerre-Barbieri SK, Morley D, Poulakis GR, Powers SP, Ramsden S, Rooker JR, Soldevilla M, Stephens B, Wells RJD, Wilkinson KA, Wooley AK, Santos RO, Drymon JM, Rehage JS, & Gervasi CL (*in revision*) From Florida to Texas: Seasonal movements of Crevalle Jacks informed by collaborative acoustic telemetry.
 
@@ -16,16 +16,20 @@ Rivas N, **James WR**, Bautista V, Mercado-Molina AE, & RO Santos (*in review*) 
 
 Badlowski GA, **James WR**, Nation C, Coppola M, Rehage JS, & RO Santos (*in review*). Seascape scale habitat amount and mangrove connectivity, not patch composition, structure seagrass prey communities.
 
+Lesser JS, Schrandt MN, Davis JP, **James WR**, Rehage JS, Strickland B, & RO Santos (*in revision*). Decoupled drivers of diversity and composition in coastal forage fish communities reveal pathways for restoration effects in the Florida Everglades.
+
 Doomstorm D, Gomez-Gonzalez E, Acosta Rodríguez VN, Figueroa A, **James WR**, Rehage JS, Santos RO, Ziegler SL, Bowen JL, Johnson DS, Spivak AC, & JA Nelson (*in revision*). Expanding globally, engineering locally: Latitudinal consistency and localized ecological effects of fiddler crab bioturbation.
 
 ### *Peer Reviewed*
 
 #### **2026**
+White M, **James WR**, Lemoine NP, Allgeier JE, Stier AC, Emery KA, Castorani MCN, Capone D, Stajner A, Enright L, Grier S, Cawley G, Spivak A, Nelson JA, Hopcroft RR, Chen A, Lyon NJ, Kui L, Caselle JE, Strickland BA, Peters J, Rehage JS, & D Burkepile (*accepted*). Scale-dependent effects of species richness and asynchrony regulate the temporal stability of consumer-mediated nutrient dynamics. *Proceedings of National Academy of Sciences*
+
 Herlan JJ, McTague SA, Staniczenko PPA, Loh JM, Santos RO, **James WR**, Gleason ACR, Edwards CB, Gosnell JS, McDonald KC, Friedlander AM, & CF Gaymer (*accepted*) Spatial ecology of coral reefs at Rapa Nui (Easter Island): biotic mechanisms and environmental drivers of coral composition and dispersion along a wave exposure gradient. *Marine Ecological Progress Series*
 
 Costa SV, Jones BLH, **James WR**, Santos RO, & JS Rehage (*accepted*). Guiding practices drive catch-and-release support and habitat concerns in Everglades recreational fishery. *Ocean and Coastal Management*
 
-White M, Rodemann JR, **James WR**, Sturges JW, Atkinson CC, Goldner VS, Santos RO, & JS Rehage (*accepted*). Body size and temperature interact with time of day to shape the activity pattern of an ectothermic predator. *Royal Society Open Science*
+White M, Rodemann JR, **James WR**, Sturges JW, Atkinson CC, Goldner VS, Santos RO, & JS Rehage (2026). Body size and temperature interact with time of day to shape the activity pattern of an ectothermic predator. *Royal Society Open Science* <https://doi.org/10.1098/rsos.260735>
 
 Boucek RE, Kovanda LC, Viadero N, Adams AJ, Rehage JS, Santos RO, & **WR James** (2026) High site fidelity and elevated $\delta^{15}N$ in Bonefish suggest localized wastewater stress in a marine national park. *Estuaries and Coasts* <https://doi.org/10.1007/s12237-026-01769-4>
 
