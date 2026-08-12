@@ -6,7 +6,7 @@ output: html_document
 ### *Under review*
 **James WR**, White M, Rodemann JR, Badlowski GA, Sturges JW, Leavitt H, Lesser JS, Bautista V, Castillo NA, Costa SV. Distrubell A, Eggenberger CW, Kabat LJ, Linenfelser JO, Rivas N, Trabelsi S, Rehage JS, & RO Santos (*in review*) Seasonality in species trophic niche width and position alters community niche occupancy. 
 
-Jones AA, Leavitt H, Nation C, Lesser JS, LaBadie J, Boucek RE, Santos RO, Rehage JS, & **WR James** (*in review*) Temporal shifts in Bonefish (Albula vulpes) diet across the Florida Keys.
+Jones AA, Leavitt H, Nation C, Lesser JS, LaBadie J, Boucek RE, Santos RO, Rehage JS, & **WR James** (*in review*) Temporal shifts in Bonefish (*Albula vulpes*) diet across the Florida Keys.
 
 Rodemann JR, **James WR**, Rehage JS, Santos RO, Fratto ZW, Strazisar T, Madden CJ, & TA Frankovich (*in revision*) Drivers of Spatiotemporal SAV Dynamics in the Coastal Lakes of Everglades National Park.
 
