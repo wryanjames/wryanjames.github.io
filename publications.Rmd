@@ -16,6 +16,8 @@ Rivas N, **James WR**, Bautista V, Mercado-Molina AE, & RO Santos (*in review*) 
 
 Badlowski GA, **James WR**, Nation C, Coppola M, Rehage JS, & RO Santos (*in review*). Seascape scale habitat amount and mangrove connectivity, not patch composition, structure seagrass prey communities.
 
+Eggenberger CE, **James WR**, Santos RO, Rezek RJ, Papastamatiou Y, Lesser JS, Nelson JA, Madden CJ, Price R, & JS Rehage (*in review*) Context-dependent links between movement strategies and trophic function in an estuarine predator.
+
 Lesser JS, Schrandt MN, Davis JP, **James WR**, Rehage JS, Strickland B, & RO Santos (*in revision*). Decoupled drivers of diversity and composition in coastal forage fish communities reveal pathways for restoration effects in the Florida Everglades.
 
 Doomstorm D, Gomez-Gonzalez E, Acosta Rodríguez VN, Figueroa A, **James WR**, Rehage JS, Santos RO, Ziegler SL, Bowen JL, Johnson DS, Spivak AC, & JA Nelson (*in revision*). Expanding globally, engineering locally: Latitudinal consistency and localized ecological effects of fiddler crab bioturbation.
@@ -27,17 +29,17 @@ White M, **James WR**, Lemoine NP, Allgeier JE, Stier AC, Emery KA, Castorani MC
 
 Herlan JJ, McTague SA, Staniczenko PPA, Loh JM, Santos RO, **James WR**, Gleason ACR, Edwards CB, Gosnell JS, McDonald KC, Friedlander AM, & CF Gaymer (*accepted*) Spatial ecology of coral reefs at Rapa Nui (Easter Island): biotic mechanisms and environmental drivers of coral composition and dispersion along a wave exposure gradient. *Marine Ecological Progress Series*
 
-Costa SV, Jones BLH, **James WR**, Santos RO, & JS Rehage (*accepted*). Guiding practices drive catch-and-release support and habitat concerns in Everglades recreational fishery. *Ocean and Coastal Management*
+Costa SV, Jones BLH, **James WR**, Santos RO, & JS Rehage (2026). Guiding practices drive catch-and-release support and habitat concerns in Everglades recreational fishery. *Ocean and Coastal Management* <https://doi.org/10.1016/j.ocecoaman.2026.108332>\
 
-White M, Rodemann JR, **James WR**, Sturges JW, Atkinson CC, Goldner VS, Santos RO, & JS Rehage (2026). Body size and temperature interact with time of day to shape the activity pattern of an ectothermic predator. *Royal Society Open Science* <https://doi.org/10.1098/rsos.260735>
+White M, Rodemann JR, **James WR**, Sturges JW, Atkinson CC, Goldner VS, Santos RO, & JS Rehage (2026). Body size and temperature interact with time of day to shape the activity pattern of an ectothermic predator. *Royal Society Open Science* <https://doi.org/10.1098/rsos.260735>\
 
-Boucek RE, Kovanda LC, Viadero N, Adams AJ, Rehage JS, Santos RO, & **WR James** (2026) High site fidelity and elevated $\delta^{15}N$ in Bonefish suggest localized wastewater stress in a marine national park. *Estuaries and Coasts* <https://doi.org/10.1007/s12237-026-01769-4>
+Boucek RE, Kovanda LC, Viadero N, Adams AJ, Rehage JS, Santos RO, & **WR James** (2026) High site fidelity and elevated $\delta^{15}N$ in Bonefish suggest localized wastewater stress in a marine national park. *Estuaries and Coasts* <https://doi.org/10.1007/s12237-026-01769-4>\
 
-Linenfelser JO, **James WR**, Rezek RJ, Santos RO, Frankovich TA, Madden C, Nelson JA, & JS Rehage (2026) Isotopic insights into nutrient contributions and transport pathways in north-central Florida Bay. *Estuarine, Coastal and Shelf Science* <https://doi.org/10.1016/j.ecss.2026.109765>
+Linenfelser JO, **James WR**, Rezek RJ, Santos RO, Frankovich TA, Madden CJ, Nelson JA, & JS Rehage (2026) Isotopic insights into nutrient contributions and transport pathways in north-central Florida Bay. *Estuarine, Coastal and Shelf Science* <https://doi.org/10.1016/j.ecss.2026.109765>\
 
-Kabat LJ, Crowl TA, Estruche Santos AS, Cheshire J, **James WR**, & RO Santos (2026) Comparison of tagging techniques for tracking freshwater tropical shrimp: assessment of survival and behavior as a function of tag type. *Crustaceana* <https://doi.org/10.1163/15685403-bja10515>
+Kabat LJ, Crowl TA, Estruche Santos AS, Cheshire J, **James WR**, & RO Santos (2026) Comparison of tagging techniques for tracking freshwater tropical shrimp: assessment of survival and behavior as a function of tag type. *Crustaceana* <https://doi.org/10.1163/15685403-bja10515>\
 
-Rivas N, **James WR**, Bautista V, Sandquist M, Guerriero AF, Arias SB, Mercado A, Rehage JS, & RO Santos (2026) Tipping the balance: Reef community shifts after a regional urchin population collapse. *Coral Reefs* <https://doi.org/10.1007/s00338-026-02822-1>
+Rivas N, **James WR**, Bautista V, Sandquist M, Guerriero AF, Arias SB, Mercado A, Rehage JS, & RO Santos (2026) Tipping the balance: Reef community shifts after a regional urchin population collapse. *Coral Reefs* <https://doi.org/10.1007/s00338-026-02822-1>\
 
 Sturges JW, **James WR**, Rezek RJ, Santos RO, White M, Badlowski GA, Trabelsi S, Massie, JA, Nelson JA, Trexler JC, & JS Rehage (2026) Seasonality drives green and brown energy pathways in food webs across an ecosystem gradient. *Plos One* <https://doi.org/10.1371/journal.pone.0336521>\
 
